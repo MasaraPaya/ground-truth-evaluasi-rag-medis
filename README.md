@@ -1,9 +1,5 @@
 # Modul Evaluasi RAG Medis Berbasis Knowledge Graph: Ground-Truth Dataset dan RAGAS
 
-Kode, *ground-truth dataset*, dan hasil evaluasi untuk artikel:
-
-> Rauf Hafizh Asmenta, Yuda Munarko, Diah Risqiwati. *Dataset Acuan dan Modul Evaluasi Sistem Tanya Jawab Medis Berbasis Graf Pengetahuan*. JATISI (Jurnal Teknik Informatika dan Sistem Informasi), dalam proses pengajuan.
-
 Isi repositori:
 
 - *Ground-truth dataset* berisi 100 pasangan pertanyaan-jawaban (QA) penyakit fisiologis dengan 352 konteks rujukan. Sumbernya PrimeKG, MedQA (USMLE), dan Harrison's Principles of Internal Medicine edisi ke-20.
