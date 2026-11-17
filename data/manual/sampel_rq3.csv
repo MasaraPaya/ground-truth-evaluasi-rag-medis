@@ -1,0 +1,56 @@
+﻿no_soal,qid_dataset,kategori,sumber,difficulty,pertanyaan
+1,4,disease-drug,PrimeKG,easy,Which drugs are indicated for the treatment of type 1 diabetes mellitus?
+2,11,disease-drug,PrimeKG,easy,What medications are used to treat erectile dysfunction?
+3,17,disease-drug,MedQA (USMLE) + PrimeKG,hard,"A 59-year-old man presents with intense, sharp pain in his toe for the past hour. He reports similar symptoms in the past and this is his 2nd visit to the emergency department this year with the same complaint. The patient is afebrile and the vital signs are within normal limits. On physical examination, there is significant erythema, swelling, warmth, and moderate pain on palpation of the right 1st toe. The remainder of the examination is unremarkable. A plain radiograph of the right foot reveals no abnormalities. Joint arthrocentesis of the inflamed toe reveals urate crystals. Laboratory studies show: Serum glucose (random) 170 mg/dL Sodium 140 mEq/L Potassium 4.1 mEq/L Chloride 100 mEq/L Uric acid 7.2 mg/dL Serum creatinine 0.8 mg/dL Blood urea nitrogen 9 mg/dL Cholesterol, total 170 mg/dL HDL-cholesterol 43 mg/dL LDL-cholesterol 73 mg/dL Triglycerides 135 mg/dL HDL: high-density lipoprotein; LDL: low-density lipoprotein Ibuprofen is prescribed for the acute treatment of this patient's symptoms. He is also put on chronic therapy to prevent the recurrence of future attacks. Which of the following drugs is 1st-line for chronic therapy of gout?
+Options:
+A. Methotrexate
+B. Colchicine
+C. Allopurinol
+D. Indomethacin
+E. Probenecid"
+4,21,disease-drug,Harrison's Principles of Internal Medicine ed.20,medium,Why is Helicobacter pylori infection treated with a proton pump inhibitor plus two or three antibiotics rather than a single antibiotic?
+5,23,disease-drug,PrimeKG + Harrison's Principles of Internal Medicine ed.20,medium,Why is doxycycline the preferred drug for early Lyme disease in adults?
+6,25,disease-drug,PrimeKG + Harrison's Principles of Internal Medicine ed.20,medium,Why are glucocorticoids added to trimethoprim-sulfamethoxazole in HIV-infected patients with moderate to severe Pneumocystis pneumonia?
+7,33,disease-phenotype,PrimeKG,easy,What clinical features are associated with macular degeneration?
+8,39,disease-phenotype,MedQA (USMLE) + PrimeKG,hard,"A 40-year-old woman has complaints of dyspnea, cough, and arthritis in her ankle joints. A CT scan reveals multiples granulomas in both lungs, as well as bilateral hilar lymphadenopathy. On examination, cutaneous nodules over the trunk are found. Erythrocyte sedimentation rate, angiotensin-converting enzyme, and serum calcium levels are elevated. She is treated with steroids. What is the most likely diagnosis?
+Options:
+A. Hodgkin's lymphoma
+B. Tuberculosis
+C. Silicosis
+D. Adenocarcinoma of the lung
+E. Sarcoidosis"
+9,40,disease-phenotype,Harrison's Principles of Internal Medicine ed.20,medium,What are the characteristic clinical features of acute bacterial meningitis?
+10,41,disease-phenotype,Harrison's Principles of Internal Medicine ed.20,medium,What are the clinical features of nephrotic syndrome?
+11,43,disease-phenotype,PrimeKG + Harrison's Principles of Internal Medicine ed.20,medium,"Why does tetanus cause muscle rigidity and spasms, and what are its first symptoms?"
+12,46,drug-side-effect,PrimeKG,easy,What are the known adverse effects of cocaine?
+13,47,drug-side-effect,PrimeKG,easy,What are the known adverse effects of glucagon?
+14,49,drug-side-effect,PrimeKG,easy,Which side effects are associated with phenoxybenzamine?
+15,55,drug-side-effect,MedQA (USMLE) + PrimeKG,hard,"A 66-year-old male presents to the outpatient cardiology clinic for evaluation of suspected primary hypertension. His blood pressure is elevated to 169/96 mm Hg, and his heart rate is 85/min. Physical examination reveals an overweight male with regular heart and lung sounds. Following repeated elevated blood pressure measurements, the diagnosis is made and the patient is started on hydrochlorothiazide. Of the following options, which is a side effect that one could experience from thiazide-like diuretics?
+Options:
+A. Hyperuricemia
+B. Hyperkalemia
+C. Hypocalcemia
+D. Hypoglycemia
+E. Hypernatremia"
+16,62,disease-gene,PrimeKG,easy,Which genes are associated with acne?
+17,65,disease-gene,PrimeKG,easy,Which genes are associated with heart disease?
+18,68,disease-gene,PrimeKG,easy,What genes or proteins are implicated in ventricular septal defect?
+19,75,disease-gene,PrimeKG + Harrison's Principles of Internal Medicine ed.20,medium,What genetic mutation causes sickle cell disease and how does it lead to vaso-occlusion and hemolysis?
+20,76,entity-definition,PrimeKG node description,easy,What is hyperlipidemia?
+21,83,entity-definition,PrimeKG node description,easy,What is osteoarthritis?
+22,89,cross-domain,PrimeKG,medium,Which clinical features are shared by granulomatosis with polyangiitis and Waldenstrom macroglobulinemia?
+23,91,cross-domain,MedQA (USMLE) + PrimeKG,hard,"A 75-year-old man is evaluated in the emergency department for increasing shortness of breath for the last 8 months. He also complains of a dry cough for the last 6 months. Initially, his shortness of breath occurs with exertion, but now he feels it at rest as well. He has no other complaints. He has a sedentary lifestyle and had a hip replacement surgery recently. The past medical history is significant for hypertension for which he is taking lisinopril. The patient is a lifetime non-smoker. The blood pressure is 135/85 mm Hg, pulse rate is 85/min, and the temperature is 36.6°C (97.9°F). Physical examination reveals fine inspiratory crackles and digital clubbing. A chest X-ray reveals peripheral reticular opacities associated with traction bronchiectasis predominantly at the lung bases. The pulmonary function test results reveal a decreased FEV1, a decreased FVC, and a preserved FEV1/FVC ratio. High-resolution CT scan of the chest is shown. Which of the following is the most likely diagnosis?
+Options:
+A. Pulmonary embolism
+B. Idiopathic pulmonary fibrosis
+C. Chronic obstructive pulmonary disease
+D. Drug-induced pulmonary fibrosis
+E. Chlamydia pneumoniae"
+24,92,cross-domain,MedQA (USMLE) + PrimeKG,hard,"A 4-month-old neonate girl is brought to the pediatrician because of feeding problems and recurrent infections. She has a blood pressure of 104/65 mm Hg and heart rate of 91/min. On physical examination, she has a cleft palate, malformed jaw, structural cardiac abnormalities, and diminished cell-mediated responses. Laboratory investigations reveal hypocalcemia. Which of the following is the most likely diagnosis?
+Options:
+A. Severe combined immunodeficiency (SCID)
+B. Wiskott-Aidrich syndrome
+C. Chediak-Higashi syndrome
+D. DiGeorge syndrome
+E. Adenosine deaminase (ADA) deficiency"
+25,96,cross-domain,Harrison's Principles of Internal Medicine ed.20,medium,How is Helicobacter pylori infection related to gastric MALT lymphoma and gastric adenocarcinoma?

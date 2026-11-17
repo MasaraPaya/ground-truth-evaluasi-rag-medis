@@ -1,0 +1,1246 @@
+[
+  {
+    "question": "What medications are used to treat breast cancer?",
+    "answer": "Drugs indicated for breast cancer include bevacizumab and drostanolone propionate.",
+    "contexts": [
+      "breast cancer --[indication]--> Bevacizumab",
+      "breast cancer --[indication]--> Drostanolone propionate"
+    ],
+    "source": "PrimeKG",
+    "category": "disease-drug",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What medications are used to treat hypothyroidism?",
+    "answer": "Drugs indicated for hypothyroidism include levothyroxine and liothyronine.",
+    "contexts": [
+      "hypothyroidism --[indication]--> Levothyroxine",
+      "hypothyroidism --[indication]--> Liothyronine"
+    ],
+    "source": "PrimeKG",
+    "category": "disease-drug",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which drugs are indicated for the treatment of heart failure?",
+    "answer": "Drugs indicated for heart failure include acetyldigitoxin, azosemide, enalapril, enalaprilat, ibopamine, levosimendan, and ubidecarenone.",
+    "contexts": [
+      "heart failure --[indication]--> Acetyldigitoxin",
+      "heart failure --[indication]--> Azosemide",
+      "heart failure --[indication]--> Enalapril",
+      "heart failure --[indication]--> Enalaprilat",
+      "heart failure --[indication]--> Ibopamine",
+      "heart failure --[indication]--> Levosimendan",
+      "heart failure --[indication]--> Ubidecarenone"
+    ],
+    "source": "PrimeKG",
+    "category": "disease-drug",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which drugs are indicated for the treatment of type 1 diabetes mellitus?",
+    "answer": "Drugs indicated for type 1 diabetes mellitus include insulin glargine, insulin human, insulin lispro, and sotagliflozin.",
+    "contexts": [
+      "type 1 diabetes mellitus --[indication]--> Insulin glargine",
+      "type 1 diabetes mellitus --[indication]--> Insulin human",
+      "type 1 diabetes mellitus --[indication]--> Insulin lispro",
+      "type 1 diabetes mellitus --[indication]--> Sotagliflozin"
+    ],
+    "source": "PrimeKG",
+    "category": "disease-drug",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What medications are used to treat chronic obstructive pulmonary disease?",
+    "answer": "Drugs indicated for chronic obstructive pulmonary disease include almitrine, arformoterol, ipratropium, olodaterol, oxitropium, revefenacin, and vilanterol.",
+    "contexts": [
+      "chronic obstructive pulmonary disease --[indication]--> Almitrine",
+      "chronic obstructive pulmonary disease --[indication]--> Arformoterol",
+      "chronic obstructive pulmonary disease --[indication]--> Ipratropium",
+      "chronic obstructive pulmonary disease --[indication]--> Olodaterol",
+      "chronic obstructive pulmonary disease --[indication]--> Oxitropium",
+      "chronic obstructive pulmonary disease --[indication]--> Revefenacin",
+      "chronic obstructive pulmonary disease --[indication]--> Vilanterol"
+    ],
+    "source": "PrimeKG",
+    "category": "disease-drug",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What medications are used to treat squamous cell carcinoma?",
+    "answer": "Drugs indicated for squamous cell carcinoma include bleomycin, cemiplimab, cetuximab, and temoporfin.",
+    "contexts": [
+      "squamous cell carcinoma --[indication]--> Bleomycin",
+      "squamous cell carcinoma --[indication]--> Cemiplimab",
+      "squamous cell carcinoma --[indication]--> Cetuximab",
+      "squamous cell carcinoma --[indication]--> Temoporfin"
+    ],
+    "source": "PrimeKG",
+    "category": "disease-drug",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which drugs are indicated for the treatment of Alzheimer disease?",
+    "answer": "Drugs indicated for Alzheimer disease include donepezil, galantamine, rivastigmine, and tacrine.",
+    "contexts": [
+      "Alzheimer disease --[indication]--> Donepezil",
+      "Alzheimer disease --[indication]--> Galantamine",
+      "Alzheimer disease --[indication]--> Rivastigmine",
+      "Alzheimer disease --[indication]--> Tacrine"
+    ],
+    "source": "PrimeKG",
+    "category": "disease-drug",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What medications are used to treat thrombocytopenia?",
+    "answer": "Drugs indicated for thrombocytopenia include avatrombopag, lusutrombopag, and oprelvekin.",
+    "contexts": [
+      "thrombocytopenia --[indication]--> Avatrombopag",
+      "thrombocytopenia --[indication]--> Lusutrombopag",
+      "thrombocytopenia --[indication]--> Oprelvekin"
+    ],
+    "source": "PrimeKG",
+    "category": "disease-drug",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What medications are used to treat autism spectrum disorder?",
+    "answer": "Drugs indicated for autism spectrum disorder include aripiprazole and risperidone.",
+    "contexts": [
+      "autism spectrum disorder --[indication]--> Aripiprazole",
+      "autism spectrum disorder --[indication]--> Risperidone"
+    ],
+    "source": "PrimeKG",
+    "category": "disease-drug",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which drugs are indicated for the treatment of atherosclerosis?",
+    "answer": "Drugs indicated for atherosclerosis include alirocumab, atorvastatin, fluvastatin, lovastatin, pravastatin, rosuvastatin, and simvastatin.",
+    "contexts": [
+      "atherosclerosis --[indication]--> Alirocumab",
+      "atherosclerosis --[indication]--> Atorvastatin",
+      "atherosclerosis --[indication]--> Fluvastatin",
+      "atherosclerosis --[indication]--> Lovastatin",
+      "atherosclerosis --[indication]--> Pravastatin",
+      "atherosclerosis --[indication]--> Rosuvastatin",
+      "atherosclerosis --[indication]--> Simvastatin"
+    ],
+    "source": "PrimeKG",
+    "category": "disease-drug",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What medications are used to treat erectile dysfunction?",
+    "answer": "Drugs indicated for erectile dysfunction include alprostadil, avanafil, mirodenafil, moxisylyte, sildenafil, tadalafil, udenafil, and vardenafil.",
+    "contexts": [
+      "erectile dysfunction (disease) --[indication]--> Alprostadil",
+      "erectile dysfunction (disease) --[indication]--> Avanafil",
+      "erectile dysfunction (disease) --[indication]--> Mirodenafil",
+      "erectile dysfunction (disease) --[indication]--> Moxisylyte",
+      "erectile dysfunction (disease) --[indication]--> Sildenafil",
+      "erectile dysfunction (disease) --[indication]--> Tadalafil",
+      "erectile dysfunction (disease) --[indication]--> Udenafil",
+      "erectile dysfunction (disease) --[indication]--> Vardenafil"
+    ],
+    "source": "PrimeKG",
+    "category": "disease-drug",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which drugs are indicated for the treatment of hepatocellular carcinoma?",
+    "answer": "Drugs indicated for hepatocellular carcinoma include floxuridine, ramucirumab, regorafenib, and sorafenib.",
+    "contexts": [
+      "hepatocellular carcinoma --[indication]--> Floxuridine",
+      "hepatocellular carcinoma --[indication]--> Ramucirumab",
+      "hepatocellular carcinoma --[indication]--> Regorafenib",
+      "hepatocellular carcinoma --[indication]--> Sorafenib"
+    ],
+    "source": "PrimeKG",
+    "category": "disease-drug",
+    "difficulty": "easy"
+  },
+  {
+    "question": "A 13-year-old boy with recently diagnosed schizophrenia presents with feelings of anxiety. The patient says that he has been having feelings of dread, especially since a friend of his has been getting bullied at school. He feels troubled by these feeling almost every day and makes it difficult for him to get ready to go to school. He also has been hallucinating worse lately. Past medical history is significant for schizophrenia diagnosed 1 year ago. Current medications are fluphenazine. The patient is afebrile and vital signs are within normal limits. Physical examination is unremarkable. Which of the following medications would most likely be a better course of treatment for this patient?\nOptions:\nA. Chlorpromazine\nB. Fluoxetine\nC. Buspirone\nD. Ziprasidone\nE. Alprazolam",
+    "answer": "The correct answer is D. Ziprasidone.",
+    "contexts": [
+      "schizophrenia --[indication]--> Ziprasidone"
+    ],
+    "source": "MedQA (USMLE) + PrimeKG",
+    "category": "disease-drug",
+    "difficulty": "hard"
+  },
+  {
+    "question": "A 27-year-old woman who resides in an area endemic for chloroquine-resistant P. falciparum malaria presents to the physician with fatigue, malaise, and episodes of fever with chills over the last 5 days. She mentions that she has episodes of shivering and chills on alternate days that last for approximately 2 hours, followed by high-grade fevers; then she has profuse sweating and her body temperature returns to normal. She also mentions that she is currently in her 7th week of pregnancy. The physical examination reveals the presence of mild splenomegaly. A peripheral blood smear confirms the diagnosis of P. falciparum infection. Which of the following is the most appropriate anti-malarial treatment for the woman?\nOptions:\nA. Mefloquine only\nB. Chloroquine phosphate plus primaquine\nC. Quinine sulfate plus clindamycin\nD. Quinine sulfate plus doxycycline\nE. Quinine sulfate plus sulfadoxine-pyrimethamine",
+    "answer": "The correct answer is C. Quinine sulfate plus clindamycin.",
+    "contexts": [
+      "malaria --[indication]--> Quinine"
+    ],
+    "source": "MedQA (USMLE) + PrimeKG",
+    "category": "disease-drug",
+    "difficulty": "hard"
+  },
+  {
+    "question": "A 67-year-old man with a history of diabetes mellitus type II and a previous myocardial infarction presents to your office for a routine examination. His blood pressure is found to be 180/100 mmHg. Which drug is the first-line choice of treatment for this patient's hypertension?\nOptions:\nA. Amlodipine\nB. Hydrochlorothiazide\nC. Lisinopril\nD. Prazosin\nE. Isoproterenol",
+    "answer": "The correct answer is C. Lisinopril.",
+    "contexts": [
+      "hypertension --[indication]--> Lisinopril"
+    ],
+    "source": "MedQA (USMLE) + PrimeKG",
+    "category": "disease-drug",
+    "difficulty": "hard"
+  },
+  {
+    "question": "A 69-year-old man with type 2 diabetes mellitus comes to the physician for a follow-up examination. His only medication is metformin. He has tried to lose weight for several years without success. He is 168 cm (5 ft 6 in) tall and weighs 110 kg (243 lb); BMI is 39 kg/m2. His hemoglobin A1c is 8.5%. Which of the following is the most appropriate antidiabetic drug to address both this patient's glucose control and weight?\nOptions:\nA. Miglitol\nB. Glipizide\nC. Liraglutide\nD. Nateglinide\nE. Rosiglitazone",
+    "answer": "The correct answer is C. Liraglutide.",
+    "contexts": [
+      "type 2 diabetes mellitus --[indication]--> Liraglutide"
+    ],
+    "source": "MedQA (USMLE) + PrimeKG",
+    "category": "disease-drug",
+    "difficulty": "hard"
+  },
+  {
+    "question": "A 59-year-old man presents with intense, sharp pain in his toe for the past hour. He reports similar symptoms in the past and this is his 2nd visit to the emergency department this year with the same complaint. The patient is afebrile and the vital signs are within normal limits. On physical examination, there is significant erythema, swelling, warmth, and moderate pain on palpation of the right 1st toe. The remainder of the examination is unremarkable. A plain radiograph of the right foot reveals no abnormalities. Joint arthrocentesis of the inflamed toe reveals urate crystals. Laboratory studies show: Serum glucose (random) 170 mg/dL Sodium 140 mEq/L Potassium 4.1 mEq/L Chloride 100 mEq/L Uric acid 7.2 mg/dL Serum creatinine 0.8 mg/dL Blood urea nitrogen 9 mg/dL Cholesterol, total 170 mg/dL HDL-cholesterol 43 mg/dL LDL-cholesterol 73 mg/dL Triglycerides 135 mg/dL HDL: high-density lipoprotein; LDL: low-density lipoprotein Ibuprofen is prescribed for the acute treatment of this patient's symptoms. He is also put on chronic therapy to prevent the recurrence of future attacks. Which of the following drugs is 1st-line for chronic therapy of gout?\nOptions:\nA. Methotrexate\nB. Colchicine\nC. Allopurinol\nD. Indomethacin\nE. Probenecid",
+    "answer": "The correct answer is C. Allopurinol.",
+    "contexts": [
+      "gout --[indication]--> Allopurinol"
+    ],
+    "source": "MedQA (USMLE) + PrimeKG",
+    "category": "disease-drug",
+    "difficulty": "hard"
+  },
+  {
+    "question": "A 53-year-old woman comes to the physician in February because of a 1-day history of fever, chills, headache, and dry cough. She also reports malaise and generalized muscle aches. She works as a teacher at a local high school, where there was recently an outbreak of influenza. She has a history of intermittent asthma, for which she takes albuterol as needed. She declined the influenza vaccine offered in the fall because her sister told her that a friend developed a flulike illness after receiving the vaccine. She is worried about possibly becoming ill and cannot afford to miss work. Her temperature is 37.9°C (100.3°F), heart rate is 58/min, and her respirations are 12/min. Physical examination is unremarkable. Her hemoglobin concentration is 14.5 g/dL, leukocyte count is 9,400/mm3, and platelet count is 280,000/mm3. In addition to analgesia, which of the following is the most appropriate next step in management?\nOptions:\nA. Supportive therapy only\nB. Amantadine\nC. Inactivated influenza vaccine\nD. Oseltamivir\nE. Live attenuated influenza vaccine",
+    "answer": "The correct answer is D. Oseltamivir.",
+    "contexts": [
+      "influenza --[indication]--> Oseltamivir"
+    ],
+    "source": "MedQA (USMLE) + PrimeKG",
+    "category": "disease-drug",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Why is enterococcal infective endocarditis treated with a cell wall-active antibiotic combined with an aminoglycoside?",
+    "answer": "Penicillin, ampicillin, or vancomycin alone only inhibit enterococci without killing them. Combining one of these cell wall-active agents with gentamicin or streptomycin produces synergistic bactericidal activity, provided the isolate lacks high-level aminoglycoside resistance.",
+    "contexts": [
+      "endocarditis --[indication]--> Vancomycin",
+      "endocarditis --[indication]--> Ampicillin"
+    ],
+    "source": "PrimeKG + Harrison's Principles of Internal Medicine ed.20",
+    "category": "disease-drug",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Why must warfarin be overlapped with heparin when treating acute deep venous thrombosis or pulmonary embolism?",
+    "answer": "Warfarin, a vitamin K antagonist, needs at least 5 days to reach full effect, and starting it alone during acute thrombosis can paradoxically increase hypercoagulability. Unfractionated heparin, low-molecular-weight heparin, or fondaparinux is therefore given together with warfarin for at least 5 days and until two INR values at least 1 day apart are within the 2.0-3.0 target range.",
+    "contexts": [
+      "pulmonary embolism (disease) --[indication]--> Warfarin",
+      "pulmonary embolism (disease) --[indication]--> Heparin",
+      "pulmonary embolism (disease) --[indication]--> Fondaparinux"
+    ],
+    "source": "PrimeKG + Harrison's Principles of Internal Medicine ed.20",
+    "category": "disease-drug",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Why is Helicobacter pylori infection treated with a proton pump inhibitor plus two or three antibiotics rather than a single antibiotic?",
+    "answer": "Although H. pylori is susceptible to many antibiotics in vitro, monotherapy usually fails, probably because too little active drug reaches the organism's colonization niche. Current regimens therefore combine a proton pump inhibitor with two or three antimicrobials for 10-14 days, chosen according to local rates of antibiotic resistance. Bismuth quadruple therapy (omeprazole, bismuth, tetracycline, and metronidazole) is a recommended first-line regimen in most countries, whereas clarithromycin-based triple therapy should be used only where clarithromycin resistance is below 20%.",
+    "contexts": [],
+    "source": "Harrison's Principles of Internal Medicine ed.20",
+    "category": "disease-drug",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Why is benzathine penicillin G used for early syphilis but not for neurosyphilis?",
+    "answer": "Benzathine penicillin G cures more than 95% of early syphilis, but even at high doses it does not reach treponemicidal concentrations in the cerebrospinal fluid. Neurosyphilis is therefore treated with IV aqueous crystalline penicillin G, or IM aqueous procaine penicillin G plus oral probenecid.",
+    "contexts": [
+      "syphilis --[indication]--> Benzylpenicillin",
+      "syphilis --[indication]--> Procaine benzylpenicillin",
+      "neurosyphilis --[indication]--> Benzylpenicillin",
+      "neurosyphilis --[indication]--> Procaine benzylpenicillin"
+    ],
+    "source": "PrimeKG + Harrison's Principles of Internal Medicine ed.20",
+    "category": "disease-drug",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Why is doxycycline the preferred drug for early Lyme disease in adults?",
+    "answer": "Doxycycline is effective for early Lyme disease in men and nonpregnant women, and it has the added advantage of also treating Anaplasma phagocytophilum, Borrelia miyamotoi, and Borrelia mayonii, which are carried by the same tick. Amoxicillin, cefuroxime axetil, and erythromycin are the second-, third-, and fourth-choice alternatives, and amoxicillin is used in children younger than 9 years.",
+    "contexts": [
+      "Lyme disease --[indication]--> Cefuroxime"
+    ],
+    "source": "PrimeKG + Harrison's Principles of Internal Medicine ed.20",
+    "category": "disease-drug",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How does imatinib treat chronic myeloid leukemia?",
+    "answer": "Chronic myeloid leukemia is driven by the BCR-ABL1 chimeric gene product, a constitutively active tyrosine kinase arising from the t(9;22) translocation known as the Philadelphia chromosome. Imatinib, the first approved BCR-ABL1 tyrosine kinase inhibitor, acts like most of these inhibitors by binding the BCR-ABL1 ATP-binding domain, which blocks downstream signaling, inhibits proliferation of CML cells, and induces their apoptosis. The estimated 10-year survival with imatinib is about 85%; the most clinically relevant resistance mechanism is ABL1 kinase-domain mutations that prevent the drug from binding.",
+    "contexts": [],
+    "source": "Harrison's Principles of Internal Medicine ed.20",
+    "category": "disease-drug",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Why are glucocorticoids added to trimethoprim-sulfamethoxazole in HIV-infected patients with moderate to severe Pneumocystis pneumonia?",
+    "answer": "Trimethoprim-sulfamethoxazole, which interferes with the organism's folate metabolism, is the treatment of choice. When the organisms die after therapy starts, they provoke lung inflammation; adding a glucocorticoid such as prednisone reduces this inflammation and improves survival in HIV-infected patients with a room-air PO2 below 70 mmHg or an alveolar-arterial gradient of at least 35 mmHg.",
+    "contexts": [
+      "pneumocystosis --[indication]--> Trimethoprim",
+      "pneumocystosis --[indication]--> Sulfamethoxazole"
+    ],
+    "source": "PrimeKG + Harrison's Principles of Internal Medicine ed.20",
+    "category": "disease-drug",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What clinical features are associated with tuberculosis?",
+    "answer": "Clinical features associated with tuberculosis include cough, fatigue, fever, and weight loss.",
+    "contexts": [
+      "tuberculosis --[phenotype_present]--> Cough",
+      "tuberculosis --[phenotype_present]--> Fatigue",
+      "tuberculosis --[phenotype_present]--> Fever",
+      "tuberculosis --[phenotype_present]--> Weight loss"
+    ],
+    "source": "PrimeKG",
+    "category": "disease-phenotype",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What clinical features are associated with pancreatitis?",
+    "answer": "Clinical features associated with pancreatitis include abdominal pain, insulin-dependent but ketosis-resistant diabetes, neoplasm of the pancreas, and pancreatic calcification.",
+    "contexts": [
+      "pancreatitis --[phenotype_present]--> Abdominal pain",
+      "pancreatitis --[phenotype_present]--> Insulin-dependent but ketosis-resistant diabetes",
+      "pancreatitis --[phenotype_present]--> Neoplasm of the pancreas",
+      "pancreatitis --[phenotype_present]--> Pancreatic calcification"
+    ],
+    "source": "PrimeKG",
+    "category": "disease-phenotype",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which signs and symptoms are characteristic of pemphigus vulgaris?",
+    "answer": "Clinical features associated with pemphigus vulgaris include abnormal blistering of the skin, acantholysis, autoimmune antibody positivity, autoimmunity, oral mucosal blisters, and weight loss.",
+    "contexts": [
+      "pemphigus vulgaris --[phenotype_present]--> Abnormal blistering of the skin",
+      "pemphigus vulgaris --[phenotype_present]--> Acantholysis",
+      "pemphigus vulgaris --[phenotype_present]--> Autoimmune antibody positivity",
+      "pemphigus vulgaris --[phenotype_present]--> Autoimmunity",
+      "pemphigus vulgaris --[phenotype_present]--> Oral mucosal blisters",
+      "pemphigus vulgaris --[phenotype_present]--> Weight loss"
+    ],
+    "source": "PrimeKG",
+    "category": "disease-phenotype",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which signs and symptoms are associated with eosinophilic esophagitis?",
+    "answer": "Clinical features associated with eosinophilic esophagitis include chest pain, dysphagia, edema, esophageal obstruction, esophageal stenosis, esophageal stricture, gastroesophageal reflux, and spontaneous esophageal perforation.",
+    "contexts": [
+      "eosinophilic esophagitis --[phenotype_present]--> Chest pain",
+      "eosinophilic esophagitis --[phenotype_present]--> Dysphagia",
+      "eosinophilic esophagitis --[phenotype_present]--> Edema",
+      "eosinophilic esophagitis --[phenotype_present]--> Esophageal obstruction",
+      "eosinophilic esophagitis --[phenotype_present]--> Esophageal stenosis",
+      "eosinophilic esophagitis --[phenotype_present]--> Esophageal stricture",
+      "eosinophilic esophagitis --[phenotype_present]--> Gastroesophageal reflux",
+      "eosinophilic esophagitis --[phenotype_present]--> Spontaneous esophageal perforation"
+    ],
+    "source": "PrimeKG",
+    "category": "disease-phenotype",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which signs and symptoms are associated with atrioventricular septal defect?",
+    "answer": "Clinical features associated with atrioventricular septal defect include congestive heart failure, cyanosis, midsystolic murmur, and pulmonary arterial hypertension.",
+    "contexts": [
+      "atrioventricular septal defect --[phenotype_present]--> Congestive heart failure",
+      "atrioventricular septal defect --[phenotype_present]--> Cyanosis",
+      "atrioventricular septal defect --[phenotype_present]--> Midsystolic murmur",
+      "atrioventricular septal defect --[phenotype_present]--> Pulmonary arterial hypertension"
+    ],
+    "source": "PrimeKG",
+    "category": "disease-phenotype",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which signs and symptoms are associated with hyperparathyroidism?",
+    "answer": "Clinical features associated with hyperparathyroidism include nephrolithiasis, osteopenia, and parathyroid carcinoma.",
+    "contexts": [
+      "hyperparathyroidism --[phenotype_present]--> Nephrolithiasis",
+      "hyperparathyroidism --[phenotype_present]--> Osteopenia",
+      "hyperparathyroidism --[phenotype_present]--> Parathyroid carcinoma"
+    ],
+    "source": "PrimeKG",
+    "category": "disease-phenotype",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which signs and symptoms are associated with Osgood-Schlatter disease?",
+    "answer": "Clinical features associated with Osgood-Schlatter disease include difficulty running, difficulty walking, irregular proximal tibial epiphyses, knee pain, large knee, limited knee extension, and shuffling gait.",
+    "contexts": [
+      "Osgood-Schlatter disease --[phenotype_present]--> Difficulty running",
+      "Osgood-Schlatter disease --[phenotype_present]--> Difficulty walking",
+      "Osgood-Schlatter disease --[phenotype_present]--> Irregular proximal tibial epiphyses",
+      "Osgood-Schlatter disease --[phenotype_present]--> Knee pain",
+      "Osgood-Schlatter disease --[phenotype_present]--> Large knee",
+      "Osgood-Schlatter disease --[phenotype_present]--> Limited knee extension",
+      "Osgood-Schlatter disease --[phenotype_present]--> Shuffling gait"
+    ],
+    "source": "PrimeKG",
+    "category": "disease-phenotype",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What clinical features are associated with macular degeneration?",
+    "answer": "Clinical features associated with macular degeneration include choroidal neovascularization, drusen, foveal hypopigmentation, geographic atrophy, and progressive visual loss.",
+    "contexts": [
+      "macular degeneration --[phenotype_present]--> Choroidal neovascularization",
+      "macular degeneration --[phenotype_present]--> Drusen",
+      "macular degeneration --[phenotype_present]--> Foveal hypopigmentation",
+      "macular degeneration --[phenotype_present]--> Geographic atrophy",
+      "macular degeneration --[phenotype_present]--> Progressive visual loss"
+    ],
+    "source": "PrimeKG",
+    "category": "disease-phenotype",
+    "difficulty": "easy"
+  },
+  {
+    "question": "One week after discharge from the neonatal intensive care unit to a regular pediatric ward, a 1450-g (3-lb 1-oz) male infant has respiratory distress and wheezing. After birth, the patient was intubated and mechanically ventilated for 3 weeks because of hypoxia. He required a 60% fraction of inspired oxygen to achieve adequate oxygen saturation. His temperature is 36.9°C (98.4°F), pulse is 144/min, respirations are 59/min, and blood pressure is 65/35 mm Hg. Physical examination shows labored breathing, intercostal retractions, and crackles at both lung bases. There is bluish discoloration around the lips. An x-ray of the chest shows interspersed areas of atelectasis, granular densities, and hyperinflation. Which of the following is the most likely diagnosis?\nOptions:\nA. Bronchiolitis obliterans\nB. Bronchopulmonary dysplasia\nC. Meconium aspiration syndrome\nD. Pulmonary hypoplasia\nE. Neonatal pneumonia",
+    "answer": "The correct answer is B. Bronchopulmonary dysplasia.",
+    "contexts": [
+      "bronchopulmonary dysplasia --[phenotype_present]--> Respiratory distress",
+      "bronchopulmonary dysplasia --[phenotype_present]--> Wheezing",
+      "bronchopulmonary dysplasia --[phenotype_present]--> Atelectasis"
+    ],
+    "source": "MedQA (USMLE) + PrimeKG",
+    "category": "disease-phenotype",
+    "difficulty": "hard"
+  },
+  {
+    "question": "A 32-year-old woman presents to her family physician with a long history of depression, irritability, and, more recently, personality changes. As her partner comments, she has stopped engaging in activities she used to enjoy like dancing, drumming lessons, and yoga. The patient denies changes in skin pigmentation and assures she keeps a balanced diet low in fat and carbohydrates. During the physical examination, jaundice and dark rings encircling the iris of the eye are noted, as well as hepatomegaly and gait disturbances. For a follow-up visit, the patient brings a battery of laboratory tests that includes a complete blood count showing normocytic normochromic anemia, a negative Coombs, normal iron levels, normal fasting glucose levels, elevated aminotransferases from the liver biochemical tests, bilirubin, and decreased serum ceruloplasmin levels. Antinuclear antibodies are negative. What is the most likely diagnosis?\nOptions:\nA. Wilson disease\nB. Hemochromatosis\nC. Autoimmune hepatitis\nD. Nonalcoholic fatty liver disease\nE. Primary sclerosing cholangitis",
+    "answer": "The correct answer is A. Wilson disease.",
+    "contexts": [
+      "Wilson disease --[phenotype_present]--> Personality changes",
+      "Wilson disease --[phenotype_present]--> Jaundice",
+      "Wilson disease --[phenotype_present]--> Hepatomegaly"
+    ],
+    "source": "MedQA (USMLE) + PrimeKG",
+    "category": "disease-phenotype",
+    "difficulty": "hard"
+  },
+  {
+    "question": "A 15-year-old African-American boy is brought to the physician because of left-sided groin pain and difficulty walking for 3 weeks. He reports having pain at rest and increased pain with activity. He recently started playing flag football but does not recall any trauma. He has had many episodes of joint and bone pain that required hospitalization in the past. He is at the 25th percentile for height and 20th percentile for weight. His temperature is 37°C (98.6°F), blood pressure is 120/80 mm Hg, and pulse is 90/min. Examination shows tenderness over the lateral aspect of the hip with no swelling, warmth, or erythema. There is pain with passive internal rotation of the left hip. The remainder of the examination shows no abnormalities. Leukocyte count is 9,000/mm3. Which of the following conditions is the most likely cause of the patient's current symptoms?\nOptions:\nA. Developmental dysplasia of the hip\nB. Slipped capital femoral epiphysis\nC. Stress fracture\nD. Septic arthritis\nE. Avascular necrosis",
+    "answer": "The correct answer is E. Avascular necrosis.",
+    "contexts": [
+      "avascular necrosis --[phenotype_present]--> Groin pain",
+      "avascular necrosis --[phenotype_present]--> Difficulty walking",
+      "avascular necrosis --[phenotype_present]--> Bone pain"
+    ],
+    "source": "MedQA (USMLE) + PrimeKG",
+    "category": "disease-phenotype",
+    "difficulty": "hard"
+  },
+  {
+    "question": "A 54-year-old man is brought to the physician by his wife because of progressive difficulty walking during the past 3 months. He has not been able to walk without assistance for the past month and has started to use a wheelchair. He also reports having urinary incontinence for 1 year. His wife says that he has begun to slur his words and has become very difficult to understand. His temperature is 37.0°C (98.6°F), pulse is 70/min, and respirations are 16/min. His blood pressure is 130/80mm Hg while sitting and 110/65mm Hg when standing. He is oriented to person and place but not to time. Neurological examination shows a mild tremor in his right hand and rigidity in his upper and lower extremities. He is unable to perform repetitive rotary forearm movements. Which of the following is the most likely diagnosis?\nOptions:\nA. Multiple system atrophy\nB. Parkinson disease\nC. Friedreich ataxia\nD. Corticobasal degeneration\nE. Normal pressure hydrocephalus",
+    "answer": "The correct answer is A. Multiple system atrophy.",
+    "contexts": [
+      "multiple system atrophy --[phenotype_present]--> Urinary incontinence",
+      "multiple system atrophy --[phenotype_present]--> Tremor",
+      "multiple system atrophy --[phenotype_present]--> Rigidity"
+    ],
+    "source": "MedQA (USMLE) + PrimeKG",
+    "category": "disease-phenotype",
+    "difficulty": "hard"
+  },
+  {
+    "question": "A previously healthy 29-year-old African-American male comes to the physician with a 2-week history of progressive fatigue and shortness of breath on exertion. Last week he noticed that his eyes were gradually turning yellow and his urine was dark. He has a family history of type II diabetes. He denies changes in urinary frequency, dysuria, or nocturia. His temperature is 37°C (98.6° F), blood pressure is 120/80 mmHg, and heart rate is 80/min. Examination shows pale conjunctivae, splenomegaly, and jaundice. There is no lymphadenopathy. Laboratory studies show: Hematocrit 19.5% Hemoglobin 6.5 g/dL WBC count 11,000/mm3 Platelet count 300,000/mm3 Reticulocyte count 8% Serum Total bilirubin 6 mg/dL Direct bilirubin 1.0 mg/dL Urea nitrogen 9 mg/dL Creatinine 1 mg/dL Lactate dehydrogenase 365 U/L Peripheral blood smear shows gross polychromasia with nucleated red blood cells and spherocytes. Direct Coombs' test is positive. Which of the following is the most likely diagnosis?\nOptions:\nA. Hereditary spherocytosis\nB. Paroxysmal nocturnal hemoglobinuria\nC. Alpha thalassemia\nD. Spur cell hemolytic anemia\nE. Autoimmune hemolytic anemia",
+    "answer": "The correct answer is E. Autoimmune hemolytic anemia.",
+    "contexts": [
+      "autoimmune hemolytic anemia --[phenotype_present]--> Fatigue",
+      "autoimmune hemolytic anemia --[phenotype_present]--> Splenomegaly",
+      "autoimmune hemolytic anemia --[phenotype_present]--> Jaundice"
+    ],
+    "source": "MedQA (USMLE) + PrimeKG",
+    "category": "disease-phenotype",
+    "difficulty": "hard"
+  },
+  {
+    "question": "A 40-year-old woman has complaints of dyspnea, cough, and arthritis in her ankle joints. A CT scan reveals multiples granulomas in both lungs, as well as bilateral hilar lymphadenopathy. On examination, cutaneous nodules over the trunk are found. Erythrocyte sedimentation rate, angiotensin-converting enzyme, and serum calcium levels are elevated. She is treated with steroids. What is the most likely diagnosis?\nOptions:\nA. Hodgkin's lymphoma\nB. Tuberculosis\nC. Silicosis\nD. Adenocarcinoma of the lung\nE. Sarcoidosis",
+    "answer": "The correct answer is E. Sarcoidosis.",
+    "contexts": [
+      "sarcoidosis --[phenotype_present]--> Dyspnea",
+      "sarcoidosis --[phenotype_present]--> Cough",
+      "sarcoidosis --[phenotype_present]--> Lymphadenopathy"
+    ],
+    "source": "MedQA (USMLE) + PrimeKG",
+    "category": "disease-phenotype",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What are the characteristic clinical features of acute bacterial meningitis?",
+    "answer": "The classic triad is fever, headache, and nuchal rigidity, although all three are not always present. A decreased level of consciousness occurs in more than 75% of patients, nausea, vomiting, and photophobia are common, Kernig's and Brudzinski's signs indicate meningeal irritation, and seizures occur in 20-40% of patients.",
+    "contexts": [],
+    "source": "Harrison's Principles of Internal Medicine ed.20",
+    "category": "disease-phenotype",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What are the clinical features of nephrotic syndrome?",
+    "answer": "Nephrotic syndrome presents with heavy proteinuria (more than 3 g per 24 h), minimal hematuria, hypoalbuminemia, hypercholesterolemia, edema, and hypertension. Its hypercoagulable state can cause venous complications, and greater proteinuria is associated with a faster decline in GFR.",
+    "contexts": [],
+    "source": "Harrison's Principles of Internal Medicine ed.20",
+    "category": "disease-phenotype",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which symptoms and complications are characteristic of polycythemia vera?",
+    "answer": "Aquagenic pruritus is the only symptom that distinguishes polycythemia vera from other causes of erythrocytosis. Excess red cells cause hyperviscosity with headache, vertigo, tinnitus, visual disturbances, and transient ischemic attacks, together with systolic hypertension. Venous or arterial thrombosis, including hepatic vein thrombosis, may be the presenting feature, thrombocytosis can cause erythromelalgia, and the high turnover of blood cells can cause hyperuricemia with secondary gout.",
+    "contexts": [
+      "acquired polycythemia vera --[phenotype_present]--> Tinnitus",
+      "acquired polycythemia vera --[phenotype_present]--> Vertigo",
+      "acquired polycythemia vera --[phenotype_present]--> Pruritus",
+      "acquired polycythemia vera --[phenotype_present]--> Thrombocytosis",
+      "acquired polycythemia vera --[phenotype_present]--> Headache",
+      "acquired polycythemia vera --[phenotype_present]--> Arterial thrombosis"
+    ],
+    "source": "PrimeKG + Harrison's Principles of Internal Medicine ed.20",
+    "category": "disease-phenotype",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Why does tetanus cause muscle rigidity and spasms, and what are its first symptoms?",
+    "answer": "Tetanus toxin (tetanospasmin) travels retrogradely into the central nervous system and cleaves VAMP2 (synaptobrevin) in inhibitory interneurons, blocking neurotransmitter release and leaving motor activity unregulated. The most common first symptoms are trismus (lockjaw), muscle pain and stiffness, back pain, and difficulty swallowing. Generalized spasms follow, laryngeal spasm can obstruct the airway, and without ventilatory support respiratory failure is the most common cause of death; autonomic disturbance is greatest in the second week of severe tetanus.",
+    "contexts": [
+      "tetanus --[phenotype_present]--> Dysphagia",
+      "tetanus --[phenotype_present]--> Trismus"
+    ],
+    "source": "PrimeKG + Harrison's Principles of Internal Medicine ed.20",
+    "category": "disease-phenotype",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How does cholera toxin produce the clinical picture of cholera?",
+    "answer": "The active subunit of cholera toxin ADP-ribosylates the G protein that regulates adenylate cyclase, raising cyclic AMP in intestinal epithelial cells. This inhibits sodium absorption and stimulates chloride secretion, so isotonic fluid accumulates in the gut lumen. The result is sudden, painless, voluminous watery 'rice-water' diarrhea, often with vomiting; without fluid replacement, patients develop hypovolemic shock and acidosis from bicarbonate loss.",
+    "contexts": [
+      "cholera --[phenotype_present]--> Dehydration",
+      "cholera --[phenotype_present]--> Hypovolemic shock",
+      "cholera --[phenotype_present]--> Vomiting"
+    ],
+    "source": "PrimeKG + Harrison's Principles of Internal Medicine ed.20",
+    "category": "disease-phenotype",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What symptoms and physical findings characterize mitral stenosis?",
+    "answer": "Raised left atrial pressure causes exertional dyspnea and cough, later orthopnea and paroxysmal nocturnal dyspnea. Hemoptysis results from rupture of pulmonary-bronchial venous connections. Persistent atrial fibrillation usually accelerates the progression of symptoms, and in atrial fibrillation thrombi arise more often from the dilated left atrium, with a risk of arterial embolization. On auscultation, an opening snap is followed by a low-pitched rumbling diastolic murmur at the apex.",
+    "contexts": [],
+    "source": "Harrison's Principles of Internal Medicine ed.20",
+    "category": "disease-phenotype",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which side effects are associated with cocaine?",
+    "answer": "Side effects associated with cocaine include agitation, mydriasis, respiratory failure, tremor, and vomiting.",
+    "contexts": [
+      "Cocaine --[side_effect]--> Agitation",
+      "Cocaine --[side_effect]--> Mydriasis",
+      "Cocaine --[side_effect]--> Respiratory failure",
+      "Cocaine --[side_effect]--> Tremor",
+      "Cocaine --[side_effect]--> Vomiting"
+    ],
+    "source": "PrimeKG",
+    "category": "drug-side-effect",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which side effects are associated with glucagon?",
+    "answer": "Side effects associated with glucagon include anaphylactic shock, nausea, tachycardia, and vomiting.",
+    "contexts": [
+      "Glucagon --[side_effect]--> Anaphylactic shock",
+      "Glucagon --[side_effect]--> Nausea",
+      "Glucagon --[side_effect]--> Tachycardia",
+      "Glucagon --[side_effect]--> Vomiting"
+    ],
+    "source": "PrimeKG",
+    "category": "drug-side-effect",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which side effects are associated with acetylcholine?",
+    "answer": "Side effects associated with acetylcholine include bradycardia, corneal opacity, dyspnea, erythema, hyperhidrosis, and respiratory distress.",
+    "contexts": [
+      "Acetylcholine --[side_effect]--> Bradycardia",
+      "Acetylcholine --[side_effect]--> Corneal opacity",
+      "Acetylcholine --[side_effect]--> Dyspnea",
+      "Acetylcholine --[side_effect]--> Erythema",
+      "Acetylcholine --[side_effect]--> Hyperhidrosis",
+      "Acetylcholine --[side_effect]--> Respiratory distress"
+    ],
+    "source": "PrimeKG",
+    "category": "drug-side-effect",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which side effects are associated with phenoxybenzamine?",
+    "answer": "Side effects associated with phenoxybenzamine include excessive daytime somnolence, fatigue, miosis, nasal obstruction, and tachycardia.",
+    "contexts": [
+      "Phenoxybenzamine --[side_effect]--> Excessive daytime somnolence",
+      "Phenoxybenzamine --[side_effect]--> Fatigue",
+      "Phenoxybenzamine --[side_effect]--> Miosis",
+      "Phenoxybenzamine --[side_effect]--> Nasal obstruction",
+      "Phenoxybenzamine --[side_effect]--> Tachycardia"
+    ],
+    "source": "PrimeKG",
+    "category": "drug-side-effect",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which side effects are associated with estriol?",
+    "answer": "Side effects associated with estriol include dementia, erythema nodosum, malnutrition, nausea, pain, and pruritus.",
+    "contexts": [
+      "Estriol --[side_effect]--> Dementia",
+      "Estriol --[side_effect]--> Erythema nodosum",
+      "Estriol --[side_effect]--> Malnutrition",
+      "Estriol --[side_effect]--> Nausea",
+      "Estriol --[side_effect]--> Pain",
+      "Estriol --[side_effect]--> Pruritus"
+    ],
+    "source": "PrimeKG",
+    "category": "drug-side-effect",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which side effects are associated with lactulose?",
+    "answer": "Side effects associated with lactulose include abdominal distention, dehydration, hyperkinetic movements, hypernatremia, hyponatremia, nausea, poor appetite, and vomiting.",
+    "contexts": [
+      "Lactulose --[side_effect]--> Abdominal distention",
+      "Lactulose --[side_effect]--> Dehydration",
+      "Lactulose --[side_effect]--> Hyperkinetic movements",
+      "Lactulose --[side_effect]--> Hypernatremia",
+      "Lactulose --[side_effect]--> Hyponatremia",
+      "Lactulose --[side_effect]--> Nausea",
+      "Lactulose --[side_effect]--> Poor appetite",
+      "Lactulose --[side_effect]--> Vomiting"
+    ],
+    "source": "PrimeKG",
+    "category": "drug-side-effect",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which side effects are associated with physostigmine?",
+    "answer": "Known adverse effects of physostigmine include bradycardia, drooling, excessive salivation, nausea, seizure, and vomiting.",
+    "contexts": [
+      "Physostigmine --[side_effect]--> Bradycardia",
+      "Physostigmine --[side_effect]--> Drooling",
+      "Physostigmine --[side_effect]--> Excessive salivation",
+      "Physostigmine --[side_effect]--> Nausea",
+      "Physostigmine --[side_effect]--> Seizure",
+      "Physostigmine --[side_effect]--> Vomiting"
+    ],
+    "source": "PrimeKG",
+    "category": "drug-side-effect",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which side effects are associated with nystatin?",
+    "answer": "Known adverse effects of nystatin include anaphylactic shock, eczema, eczematoid dermatitis, myalgia, nausea, pain, pruritus, stomatitis, tachycardia, and vomiting.",
+    "contexts": [
+      "Nystatin --[side_effect]--> Anaphylactic shock",
+      "Nystatin --[side_effect]--> Eczema",
+      "Nystatin --[side_effect]--> Eczematoid dermatitis",
+      "Nystatin --[side_effect]--> Myalgia",
+      "Nystatin --[side_effect]--> Nausea",
+      "Nystatin --[side_effect]--> Pain",
+      "Nystatin --[side_effect]--> Pruritus",
+      "Nystatin --[side_effect]--> Stomatitis",
+      "Nystatin --[side_effect]--> Tachycardia",
+      "Nystatin --[side_effect]--> Vomiting"
+    ],
+    "source": "PrimeKG",
+    "category": "drug-side-effect",
+    "difficulty": "easy"
+  },
+  {
+    "question": "A 36-year-old woman is brought to the emergency department after a high-speed motor vehicle collision. Her temperature is 36.5°C (97.7°F), pulse is 120/min, respirations are 24/min, and blood pressure is 100/65 mm Hg. Examination shows second and third-degree burns covering 30% of the surface area of her body. Intravenous fluids are administered. 30 minutes later, the patient develops respiratory distress and requires intubation. Administration of succinylcholine during the procedure is most likely to increase this patient's risk of developing which of the following laboratory abnormalities?\nOptions:\nA. Hyperphosphatemia\nB. Hypermagnesemia\nC. Hyperkalemia\nD. Hypernatremia\nE. Hyperglycemia",
+    "answer": "The correct answer is C. Hyperkalemia.",
+    "contexts": [
+      "Succinylcholine --[side_effect]--> Hyperkalemia"
+    ],
+    "source": "MedQA (USMLE) + PrimeKG",
+    "category": "drug-side-effect",
+    "difficulty": "hard"
+  },
+  {
+    "question": "A 66-year-old male presents to the outpatient cardiology clinic for evaluation of suspected primary hypertension. His blood pressure is elevated to 169/96 mm Hg, and his heart rate is 85/min. Physical examination reveals an overweight male with regular heart and lung sounds. Following repeated elevated blood pressure measurements, the diagnosis is made and the patient is started on hydrochlorothiazide. Of the following options, which is a side effect that one could experience from thiazide-like diuretics?\nOptions:\nA. Hyperuricemia\nB. Hyperkalemia\nC. Hypocalcemia\nD. Hypoglycemia\nE. Hypernatremia",
+    "answer": "The correct answer is A. Hyperuricemia.",
+    "contexts": [
+      "Hydrochlorothiazide --[side_effect]--> Hyperuricemia"
+    ],
+    "source": "MedQA (USMLE) + PrimeKG",
+    "category": "drug-side-effect",
+    "difficulty": "hard"
+  },
+  {
+    "question": "A 32-year-old woman presents to the office with complaints of frothy urine and swelling in her body that started 6 days ago. She says that she first noticed the swelling in her face that gradually involved other parts of her body. On further questioning, she gives a history of rheumatoid arthritis for 2 years. She is taking Penicillamine and Methotrexate for the past 6 months. Vitals include: blood pressure 122/89 mm Hg, pulse rate 55/min, temperature 36.7°C (98.0°F), and a respiratory rate 14/min. On examination, there is generalized pitting edema along with some subcutaneous nodules on the dorsal aspect of the forearm. Urinalysis pH 6.6 Color light yellow RBC none WBC 1–2/HPF Protein 4+ Cast fat globules Glucose absent Crystal none Ketone absent Nitrite absent 24 hours urine protein excretion 4.8 g Basic metabolic panel Sodium 141 mEq/L Potassium 5.1 mEq/L Chloride 101 mEq/L Bicarbonate 22 mEq/L Albumin 3.2 mg/dL Urea nitrogen 17 mg/dL Creatinine 1.3 mg/dL Uric Acid 6.8 mg/ dL Calcium 8.9 mg/ dL Glucose 111 mg/dL A renal biopsy is ordered which shows diffuse capillary and glomerular basement membrane thickening. Which of the following is the most likely cause for her impaired renal function?\nOptions:\nA. Lipoid nephrosis\nB. Minimal change disease\nC. Membranous nephropathy\nD. Renal amyloidosis\nE. Diabetic glomerulonephropathy",
+    "answer": "The correct answer is C. Membranous nephropathy.",
+    "contexts": [
+      "Penicillamine --[side_effect]--> Membranous nephropathy"
+    ],
+    "source": "MedQA (USMLE) + PrimeKG",
+    "category": "drug-side-effect",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Why is heparin-induced thrombocytopenia associated with thrombosis, and how is it managed?",
+    "answer": "Heparin-induced thrombocytopenia is caused by antibodies, usually IgG, against neoantigens on platelet factor 4 that are exposed when heparin binds it. These antibodies bind the heparin-PF4 complex and platelet Fc receptors, activating platelets and releasing prothrombotic microparticles. It typically appears 5-10 days after heparin is started, and venous thrombosis (DVT or PE) is more common than arterial thrombosis. Management is to stop all heparin and give an alternative anticoagulant such as argatroban, bivalirudin, fondaparinux, or rivaroxaban, without platelet transfusion, and without warfarin until the platelet count returns to its baseline level.",
+    "contexts": [
+      "pulmonary embolism (disease) --[indication]--> Heparin",
+      "Heparin --[side_effect]--> Thrombocytopenia",
+      "pulmonary embolism (disease) --[indication]--> Warfarin",
+      "pulmonary embolism (disease) --[indication]--> Fondaparinux"
+    ],
+    "source": "PrimeKG + Harrison's Principles of Internal Medicine ed.20",
+    "category": "drug-side-effect",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What are the major adverse effects of isoniazid and how are they prevented or detected?",
+    "answer": "The important adverse effects of isoniazid are drug-induced liver injury and peripheral neuropathy. Transient aminotransferase elevations occur in up to 20% of patients, while symptomatic hepatitis is rare but becomes more likely with older age, daily alcohol use, and the postpartum period, so liver tests are monitored in high-risk patients. Pyridoxine 25-50 mg daily is given to prevent neuropathy, and slow NAT2 acetylators have higher drug levels and more toxicity.",
+    "contexts": [
+      "Isoniazid --[side_effect]--> Peripheral neuropathy",
+      "Isoniazid --[side_effect]--> Hepatitis"
+    ],
+    "source": "PrimeKG + Harrison's Principles of Internal Medicine ed.20",
+    "category": "drug-side-effect",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What are the main toxicities of aminoglycosides and how do they differ in reversibility?",
+    "answer": "All aminoglycosides can cause nephrotoxicity and ototoxicity, the latter affecting both vestibular and cochlear function. Nephrotoxicity is associated with prolonged use and may be related to concomitant nephrotoxic drugs, although its risk is not well defined. Nephrotoxicity is usually reversible, whereas ototoxicity can be irreversible.",
+    "contexts": [
+      "Gentamicin --[side_effect]--> Vertigo",
+      "Gentamicin --[side_effect]--> Hearing impairment",
+      "Amikacin --[side_effect]--> Hearing impairment",
+      "Amikacin --[side_effect]--> Acute kidney injury"
+    ],
+    "source": "PrimeKG + Harrison's Principles of Internal Medicine ed.20",
+    "category": "drug-side-effect",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the main toxicity of amphotericin B and why were its lipid formulations developed?",
+    "answer": "Amphotericin B is the broadest-spectrum antifungal agent, but it causes significant nephrotoxicity and infusion reactions with fever, chills, and nausea. Lipid formulations, such as liposomal amphotericin B and amphotericin B lipid complex, were developed to reduce these effects and have largely replaced the deoxycholate form, although they are more expensive.",
+    "contexts": [
+      "Amphotericin B --[side_effect]--> Nausea",
+      "Amphotericin B --[side_effect]--> Acute kidney injury"
+    ],
+    "source": "PrimeKG + Harrison's Principles of Internal Medicine ed.20",
+    "category": "drug-side-effect",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which genes are associated with gastroesophageal reflux disease?",
+    "answer": "Genes associated with gastroesophageal reflux disease include ABAT, CXCL8, PGA5, PTGS2, SOD2, TAC1, and TRPV1.",
+    "contexts": [
+      "gastroesophageal reflux disease --[associated_gene]--> ABAT",
+      "gastroesophageal reflux disease --[associated_gene]--> CXCL8",
+      "gastroesophageal reflux disease --[associated_gene]--> PGA5",
+      "gastroesophageal reflux disease --[associated_gene]--> PTGS2",
+      "gastroesophageal reflux disease --[associated_gene]--> SOD2",
+      "gastroesophageal reflux disease --[associated_gene]--> TAC1",
+      "gastroesophageal reflux disease --[associated_gene]--> TRPV1"
+    ],
+    "source": "PrimeKG",
+    "category": "disease-gene",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which genes are associated with acne?",
+    "answer": "Genes associated with acne include MEFV, NLRP3, NOD2, and PSTPIP1.",
+    "contexts": [
+      "acne (disease) --[associated_gene]--> MEFV",
+      "acne (disease) --[associated_gene]--> NLRP3",
+      "acne (disease) --[associated_gene]--> NOD2",
+      "acne (disease) --[associated_gene]--> PSTPIP1"
+    ],
+    "source": "PrimeKG",
+    "category": "disease-gene",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which genes are associated with iron deficiency anemia?",
+    "answer": "Genes associated with iron deficiency anemia include SLC11A2, SOD1, TFRC, and TMPRSS6.",
+    "contexts": [
+      "iron deficiency anemia --[associated_gene]--> SLC11A2",
+      "iron deficiency anemia --[associated_gene]--> SOD1",
+      "iron deficiency anemia --[associated_gene]--> TFRC",
+      "iron deficiency anemia --[associated_gene]--> TMPRSS6"
+    ],
+    "source": "PrimeKG",
+    "category": "disease-gene",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which genes are associated with peptic ulcer disease?",
+    "answer": "Genes associated with peptic ulcer disease include EDN1, GAST, and IL1B.",
+    "contexts": [
+      "peptic ulcer disease --[associated_gene]--> EDN1",
+      "peptic ulcer disease --[associated_gene]--> GAST",
+      "peptic ulcer disease --[associated_gene]--> IL1B"
+    ],
+    "source": "PrimeKG",
+    "category": "disease-gene",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which genes are associated with heart disease?",
+    "answer": "Genes associated with heart disease include CRP, IL6, SLC22A3, SLC22A4, SLC22A5, and TNF.",
+    "contexts": [
+      "heart disease --[associated_gene]--> CRP",
+      "heart disease --[associated_gene]--> IL6",
+      "heart disease --[associated_gene]--> SLC22A3",
+      "heart disease --[associated_gene]--> SLC22A4",
+      "heart disease --[associated_gene]--> SLC22A5",
+      "heart disease --[associated_gene]--> TNF"
+    ],
+    "source": "PrimeKG",
+    "category": "disease-gene",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which genes are associated with sinusitis?",
+    "answer": "Genes associated with sinusitis include AZGP1, CFTR, IL13, MET, PIP, PPP1R9B, and RSPH4A.",
+    "contexts": [
+      "sinusitis --[associated_gene]--> AZGP1",
+      "sinusitis --[associated_gene]--> CFTR",
+      "sinusitis --[associated_gene]--> IL13",
+      "sinusitis --[associated_gene]--> MET",
+      "sinusitis --[associated_gene]--> PIP",
+      "sinusitis --[associated_gene]--> PPP1R9B",
+      "sinusitis --[associated_gene]--> RSPH4A"
+    ],
+    "source": "PrimeKG",
+    "category": "disease-gene",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which genes are associated with benign prostatic hyperplasia?",
+    "answer": "Genes associated with benign prostatic hyperplasia include FGF7, KLK3, PRL, and SRD5A2.",
+    "contexts": [
+      "benign prostatic hyperplasia (disease) --[associated_gene]--> FGF7",
+      "benign prostatic hyperplasia (disease) --[associated_gene]--> KLK3",
+      "benign prostatic hyperplasia (disease) --[associated_gene]--> PRL",
+      "benign prostatic hyperplasia (disease) --[associated_gene]--> SRD5A2"
+    ],
+    "source": "PrimeKG",
+    "category": "disease-gene",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which genes are associated with ventricular septal defect?",
+    "answer": "Genes associated with ventricular septal defect include CITED2, GATA4, and NKX2-5.",
+    "contexts": [
+      "ventricular septal defect --[associated_gene]--> CITED2",
+      "ventricular septal defect --[associated_gene]--> GATA4",
+      "ventricular septal defect --[associated_gene]--> NKX2-5"
+    ],
+    "source": "PrimeKG",
+    "category": "disease-gene",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which genes are associated with insomnia?",
+    "answer": "Genes associated with insomnia include ADORA2A, GABRB3, LMX1B, and MEIS1.",
+    "contexts": [
+      "insomnia (disease) --[associated_gene]--> ADORA2A",
+      "insomnia (disease) --[associated_gene]--> GABRB3",
+      "insomnia (disease) --[associated_gene]--> LMX1B",
+      "insomnia (disease) --[associated_gene]--> MEIS1"
+    ],
+    "source": "PrimeKG",
+    "category": "disease-gene",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which genes are associated with hemophilia?",
+    "answer": "Genes associated with hemophilia include F8 and F9.",
+    "contexts": [
+      "hemophilia --[associated_gene]--> F8",
+      "hemophilia --[associated_gene]--> F9"
+    ],
+    "source": "PrimeKG",
+    "category": "disease-gene",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which genes are associated with otitis media?",
+    "answer": "Genes associated with otitis media include A2ML1 and RSPH4A.",
+    "contexts": [
+      "otitis media (disease) --[associated_gene]--> A2ML1",
+      "otitis media (disease) --[associated_gene]--> RSPH4A"
+    ],
+    "source": "PrimeKG",
+    "category": "disease-gene",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which genes are associated with irritable bowel syndrome?",
+    "answer": "Genes associated with irritable bowel syndrome include IL10, MAGI2, SLC6A2, and TPSAB1.",
+    "contexts": [
+      "irritable bowel syndrome --[associated_gene]--> IL10",
+      "irritable bowel syndrome --[associated_gene]--> MAGI2",
+      "irritable bowel syndrome --[associated_gene]--> SLC6A2",
+      "irritable bowel syndrome --[associated_gene]--> TPSAB1"
+    ],
+    "source": "PrimeKG",
+    "category": "disease-gene",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which gene is defective in cystic fibrosis and how does its most common mutation cause disease?",
+    "answer": "Cystic fibrosis is an autosomal recessive disease caused by mutations in CFTR, an anion channel in the apical membrane of epithelial cells that regulates the volume and composition of secretions. The most common mutation, F508del, makes the protein misfold so that it is retained in the endoplasmic reticulum and degraded instead of reaching the cell surface. Other mutations, such as G551D, reach the surface but cannot open properly; ivacaftor is a CFTR gating potentiator, and lumacaftor partially corrects the F508del processing defect.",
+    "contexts": [
+      "cystic fibrosis --[indication]--> Lumacaftor",
+      "cystic fibrosis --[indication]--> Ivacaftor",
+      "cystic fibrosis --[associated_gene]--> CFTR"
+    ],
+    "source": "PrimeKG + Harrison's Principles of Internal Medicine ed.20",
+    "category": "disease-gene",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which genes cause autosomal dominant polycystic kidney disease, and why do cysts form in only some nephrons?",
+    "answer": "Autosomal dominant polycystic kidney disease is caused by mutations in PKD1 (chromosome 16p13, encoding polycystin-1; about 85% of cases) and PKD2 (chromosome 4q21-q23, encoding polycystin-2; about 15%, usually milder). Every cell carries one germline mutant allele, but cysts develop in only a small fraction of nephrons; they are thought to arise from clonal growth of single cells that acquire a somatic 'second hit' in the normal allele.",
+    "contexts": [
+      "polycystic kidney disease --[associated_gene]--> PKD2",
+      "polycystic kidney disease --[associated_gene]--> PKD1"
+    ],
+    "source": "PrimeKG + Harrison's Principles of Internal Medicine ed.20",
+    "category": "disease-gene",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What genetic mutation causes sickle cell disease and how does it lead to vaso-occlusion and hemolysis?",
+    "answer": "A mutation in the beta-globin gene (HBB) replaces glutamic acid with valine at position 6, producing HbS. Deoxygenated HbS polymerizes, stiffening and dehydrating red cells and giving them a sickle shape. These rigid, abnormally adherent cells block small vessels, causing ischemia, pain, and organ damage, and are destroyed early, causing hemolytic anemia. Sickle cell anemia is the homozygous HbS state.",
+    "contexts": [
+      "sickle cell anemia --[phenotype_present]--> Pain",
+      "sickle cell anemia --[phenotype_present]--> Hemolytic anemia",
+      "sickle cell anemia --[associated_gene]--> HBB"
+    ],
+    "source": "PrimeKG + Harrison's Principles of Internal Medicine ed.20",
+    "category": "disease-gene",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is hyperlipidemia?",
+    "answer": "Hyperlipidemia refers to conditions with excess lipids in the blood.",
+    "contexts": [
+      "hyperlipidemia --[definition]--> Conditions with excess lipids in the blood."
+    ],
+    "source": "PrimeKG node description",
+    "category": "entity-definition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is asthma?",
+    "answer": "Asthma is a bronchial disease that is characterized by chronic inflammation and narrowing of the airways, which is caused by a combination of environmental and genetic factors resulting in recurring periods of wheezing (a whistling sound while breathing), chest tightness, shortness of breath, mucus production and coughing.",
+    "contexts": [
+      "asthma --[definition]--> A bronchial disease that is characterized by chronic inflammation and narrowing of the airways, which is caused by a combination of environmental and genetic factors resulting in recurring periods of wheezing (a whistling sound while breathing), chest tightness, shortness of breath, mucus production and coughing."
+    ],
+    "source": "PrimeKG node description",
+    "category": "entity-definition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is diabetes mellitus?",
+    "answer": "Diabetes mellitus is a metabolic disorder characterized by abnormally high blood sugar levels due to diminished production of insulin or insulin resistance/desensitization.",
+    "contexts": [
+      "diabetes mellitus (disease) --[definition]--> A metabolic disorder characterized by abnormally high blood sugar levels due to diminished production of insulin or insulin resistance/desensitization."
+    ],
+    "source": "PrimeKG node description",
+    "category": "entity-definition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is viral hepatitis?",
+    "answer": "Viral hepatitis is an acute or chronic inflammation of the liver parenchyma caused by viruses. Representative examples include hepatitis A, B, and C, cytomegalovirus hepatitis, and herpes simplex hepatitis.",
+    "contexts": [
+      "viral hepatitis --[definition]--> An acute or chronic inflammation of the liver parenchyma caused by viruses. Representative examples include hepatitis A, B, and C, cytomegalovirus hepatitis, and herpes simplex hepatitis."
+    ],
+    "source": "PrimeKG node description",
+    "category": "entity-definition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is pneumonia?",
+    "answer": "Pneumonia is an acute or chronic inflammation that affects the lung parenchyma focally or diffusely and is caused by infection of one or both lungs by bacteria, viruses, fungi, or mycoplasma. Symptoms include cough, shortness of breath, fevers, chills, chest pain, headache, sweating, and weakness.",
+    "contexts": [
+      "pneumonia --[definition]--> An acute, acute and chronic, or chronic inflammation focally or diffusely affecting the lung parenchyma, caused by an infection in one or both of the lungs (by bacteria, viruses, fungi, or mycoplasma.). Symptoms include cough, shortness of breath, fevers, chills, chest pain, headache, sweating, and weakness."
+    ],
+    "source": "PrimeKG node description",
+    "category": "entity-definition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is myocardial infarction?",
+    "answer": "Myocardial infarction is gross necrosis of the myocardium resulting from interruption of the blood supply to the area, as in coronary thrombosis.",
+    "contexts": [
+      "myocardial infarction (disease) --[definition]--> Gross necrosis of the myocardium, as a result of interruption of the blood supply to the area, as in coronary thrombosis."
+    ],
+    "source": "PrimeKG node description",
+    "category": "entity-definition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is coronary artery disease?",
+    "answer": "Coronary artery disease is narrowing of the coronary arteries due to fatty deposits inside the arterial walls.",
+    "contexts": [
+      "coronary artery disease --[definition]--> Narrowing of the coronary arteries due to fatty deposits inside the arterial walls."
+    ],
+    "source": "PrimeKG node description",
+    "category": "entity-definition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is osteoarthritis?",
+    "answer": "Osteoarthritis is a noninflammatory degenerative joint disease occurring chiefly in older persons, characterized by degeneration of the articular cartilage, hypertrophy of bone at the margins and changes in the synovial membrane. It is accompanied by pain and stiffness, particularly after prolonged activity.",
+    "contexts": [
+      "osteoarthritis --[definition]--> A noninflammatory degenerative joint disease occurring chiefly in older persons, characterised by degeneration of the articular cartilage, hypertrophy of bone at the margins and changes in the synovial membrane. It is accompanied by pain and stiffness, particularly after prolonged activity."
+    ],
+    "source": "PrimeKG node description",
+    "category": "entity-definition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is atrial fibrillation?",
+    "answer": "Atrial fibrillation is a supraventricular arrhythmia in which consistent P waves on the electrocardiogram are replaced by rapid oscillations or fibrillatory waves that vary in size, shape, and timing and are accompanied by an irregular ventricular response.",
+    "contexts": [
+      "atrial fibrillation (disease) --[definition]--> A disorder characterized by an electrocardiographic finding of a supraventricular arrhythmia characterized by the replacement of consistent P waves by rapid oscillations or fibrillatory waves that vary in size, shape and timing and are accompanied by an irregular ventricular response. (CDISC)"
+    ],
+    "source": "PrimeKG node description",
+    "category": "entity-definition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is congestive heart failure?",
+    "answer": "Congestive heart failure is failure of the heart to pump a sufficient amount of blood to meet the needs of the body tissues, resulting in tissue congestion and edema. Signs and symptoms include shortness of breath, pitting edema, enlarged tender liver, engorged neck veins, and pulmonary rales.",
+    "contexts": [
+      "congestive heart failure --[definition]--> Failure of the heart to pump a sufficient amount of blood to meet the needs of the body tissues, resulting in tissue congestion and edema. Signs and symptoms include shortness of breath, pitting edema, enlarged tender liver, engorged neck veins, and pulmonary rales."
+    ],
+    "source": "PrimeKG node description",
+    "category": "entity-definition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which biologic drugs are indicated for both psoriasis and psoriatic arthritis?",
+    "answer": "Biologic drugs indicated for both psoriasis and psoriatic arthritis include ustekinumab.",
+    "contexts": [
+      "psoriasis --[indication]--> Ustekinumab",
+      "psoriatic arthritis --[indication]--> Ustekinumab"
+    ],
+    "source": "PrimeKG",
+    "category": "cross-domain",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which drugs are indicated for both conjunctivitis and pyelonephritis?",
+    "answer": "Drugs indicated for both conjunctivitis and pyelonephritis include levofloxacin, norfloxacin, and ofloxacin.",
+    "contexts": [
+      "conjunctivitis --[indication]--> Levofloxacin",
+      "pyelonephritis --[indication]--> Levofloxacin",
+      "conjunctivitis --[indication]--> Norfloxacin",
+      "pyelonephritis --[indication]--> Norfloxacin",
+      "conjunctivitis --[indication]--> Ofloxacin",
+      "pyelonephritis --[indication]--> Ofloxacin"
+    ],
+    "source": "PrimeKG",
+    "category": "cross-domain",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which drugs are indicated for both candidemia and candidiasis?",
+    "answer": "Drugs indicated for both candidemia and candidiasis include amphotericin B and fluconazole.",
+    "contexts": [
+      "candidemia --[indication]--> Amphotericin B",
+      "candidiasis --[indication]--> Amphotericin B",
+      "candidemia --[indication]--> Fluconazole",
+      "candidiasis --[indication]--> Fluconazole"
+    ],
+    "source": "PrimeKG",
+    "category": "cross-domain",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which clinical features are shared by granulomatosis with polyangiitis and Waldenstrom macroglobulinemia?",
+    "answer": "Granulomatosis with polyangiitis and Waldenstrom macroglobulinemia share the following clinical features: congestive heart failure, cranial nerve paralysis, cutis marmorata, elevated erythrocyte sedimentation rate, epistaxis, fatigue, fever, gastrointestinal hemorrhage, malabsorption, periorbital edema, peripheral neuropathy, pulmonary infiltrates, renal insufficiency, respiratory insufficiency, retinal hemorrhage, and vasculitis.",
+    "contexts": [
+      "granulomatosis with polyangiitis --[phenotype_present]--> Congestive heart failure",
+      "Waldenstrom macroglobulinemia --[phenotype_present]--> Congestive heart failure",
+      "granulomatosis with polyangiitis --[phenotype_present]--> Cranial nerve paralysis",
+      "Waldenstrom macroglobulinemia --[phenotype_present]--> Cranial nerve paralysis",
+      "granulomatosis with polyangiitis --[phenotype_present]--> Cutis marmorata",
+      "Waldenstrom macroglobulinemia --[phenotype_present]--> Cutis marmorata",
+      "granulomatosis with polyangiitis --[phenotype_present]--> Elevated erythrocyte sedimentation rate",
+      "Waldenstrom macroglobulinemia --[phenotype_present]--> Elevated erythrocyte sedimentation rate",
+      "granulomatosis with polyangiitis --[phenotype_present]--> Epistaxis",
+      "Waldenstrom macroglobulinemia --[phenotype_present]--> Epistaxis",
+      "granulomatosis with polyangiitis --[phenotype_present]--> Fatigue",
+      "Waldenstrom macroglobulinemia --[phenotype_present]--> Fatigue",
+      "granulomatosis with polyangiitis --[phenotype_present]--> Fever",
+      "Waldenstrom macroglobulinemia --[phenotype_present]--> Fever",
+      "granulomatosis with polyangiitis --[phenotype_present]--> Gastrointestinal hemorrhage",
+      "Waldenstrom macroglobulinemia --[phenotype_present]--> Gastrointestinal hemorrhage",
+      "granulomatosis with polyangiitis --[phenotype_present]--> Malabsorption",
+      "Waldenstrom macroglobulinemia --[phenotype_present]--> Malabsorption",
+      "granulomatosis with polyangiitis --[phenotype_present]--> Periorbital edema",
+      "Waldenstrom macroglobulinemia --[phenotype_present]--> Periorbital edema",
+      "granulomatosis with polyangiitis --[phenotype_present]--> Peripheral neuropathy",
+      "Waldenstrom macroglobulinemia --[phenotype_present]--> Peripheral neuropathy",
+      "granulomatosis with polyangiitis --[phenotype_present]--> Pulmonary infiltrates",
+      "Waldenstrom macroglobulinemia --[phenotype_present]--> Pulmonary infiltrates",
+      "granulomatosis with polyangiitis --[phenotype_present]--> Renal insufficiency",
+      "Waldenstrom macroglobulinemia --[phenotype_present]--> Renal insufficiency",
+      "granulomatosis with polyangiitis --[phenotype_present]--> Respiratory insufficiency",
+      "Waldenstrom macroglobulinemia --[phenotype_present]--> Respiratory insufficiency",
+      "granulomatosis with polyangiitis --[phenotype_present]--> Retinal hemorrhage",
+      "Waldenstrom macroglobulinemia --[phenotype_present]--> Retinal hemorrhage",
+      "granulomatosis with polyangiitis --[phenotype_present]--> Vasculitis",
+      "Waldenstrom macroglobulinemia --[phenotype_present]--> Vasculitis"
+    ],
+    "source": "PrimeKG",
+    "category": "cross-domain",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which clinical features are shared by Wiskott-Aldrich syndrome and hyper-IgM syndrome?",
+    "answer": "Wiskott-Aldrich syndrome and hyper-IgM syndrome share the following clinical features: hemolytic anemia, immunodeficiency, neutropenia, recurrent lower respiratory tract infections, recurrent respiratory infections, recurrent upper respiratory tract infections, sepsis, and thrombocytopenia.",
+    "contexts": [
+      "Wiskott-Aldrich syndrome --[phenotype_present]--> Hemolytic anemia",
+      "hyper-IgM syndrome --[phenotype_present]--> Hemolytic anemia",
+      "Wiskott-Aldrich syndrome --[phenotype_present]--> Immunodeficiency",
+      "hyper-IgM syndrome --[phenotype_present]--> Immunodeficiency",
+      "Wiskott-Aldrich syndrome --[phenotype_present]--> Neutropenia",
+      "hyper-IgM syndrome --[phenotype_present]--> Neutropenia",
+      "Wiskott-Aldrich syndrome --[phenotype_present]--> Recurrent lower respiratory tract infections",
+      "hyper-IgM syndrome --[phenotype_present]--> Recurrent lower respiratory tract infections",
+      "Wiskott-Aldrich syndrome --[phenotype_present]--> Recurrent respiratory infections",
+      "hyper-IgM syndrome --[phenotype_present]--> Recurrent respiratory infections",
+      "Wiskott-Aldrich syndrome --[phenotype_present]--> Recurrent upper respiratory tract infections",
+      "hyper-IgM syndrome --[phenotype_present]--> Recurrent upper respiratory tract infections",
+      "Wiskott-Aldrich syndrome --[phenotype_present]--> Sepsis",
+      "hyper-IgM syndrome --[phenotype_present]--> Sepsis",
+      "Wiskott-Aldrich syndrome --[phenotype_present]--> Thrombocytopenia",
+      "hyper-IgM syndrome --[phenotype_present]--> Thrombocytopenia"
+    ],
+    "source": "PrimeKG",
+    "category": "cross-domain",
+    "difficulty": "medium"
+  },
+  {
+    "question": "A 75-year-old man is evaluated in the emergency department for increasing shortness of breath for the last 8 months. He also complains of a dry cough for the last 6 months. Initially, his shortness of breath occurs with exertion, but now he feels it at rest as well. He has no other complaints. He has a sedentary lifestyle and had a hip replacement surgery recently. The past medical history is significant for hypertension for which he is taking lisinopril. The patient is a lifetime non-smoker. The blood pressure is 135/85 mm Hg, pulse rate is 85/min, and the temperature is 36.6°C (97.9°F). Physical examination reveals fine inspiratory crackles and digital clubbing. A chest X-ray reveals peripheral reticular opacities associated with traction bronchiectasis predominantly at the lung bases. The pulmonary function test results reveal a decreased FEV1, a decreased FVC, and a preserved FEV1/FVC ratio. High-resolution CT scan of the chest is shown. Which of the following is the most likely diagnosis?\nOptions:\nA. Pulmonary embolism\nB. Idiopathic pulmonary fibrosis\nC. Chronic obstructive pulmonary disease\nD. Drug-induced pulmonary fibrosis\nE. Chlamydia pneumoniae",
+    "answer": "The correct answer is B. Idiopathic pulmonary fibrosis.",
+    "contexts": [
+      "idiopathic pulmonary fibrosis --[phenotype_present]--> Cough",
+      "idiopathic pulmonary fibrosis --[phenotype_present]--> Crackles",
+      "idiopathic pulmonary fibrosis --[phenotype_present]--> Bronchiectasis"
+    ],
+    "source": "MedQA (USMLE) + PrimeKG",
+    "category": "cross-domain",
+    "difficulty": "hard"
+  },
+  {
+    "question": "A 4-month-old neonate girl is brought to the pediatrician because of feeding problems and recurrent infections. She has a blood pressure of 104/65 mm Hg and heart rate of 91/min. On physical examination, she has a cleft palate, malformed jaw, structural cardiac abnormalities, and diminished cell-mediated responses. Laboratory investigations reveal hypocalcemia. Which of the following is the most likely diagnosis?\nOptions:\nA. Severe combined immunodeficiency (SCID)\nB. Wiskott-Aidrich syndrome\nC. Chediak-Higashi syndrome\nD. DiGeorge syndrome\nE. Adenosine deaminase (ADA) deficiency",
+    "answer": "The correct answer is D. DiGeorge syndrome.",
+    "contexts": [
+      "DiGeorge syndrome --[phenotype_present]--> Recurrent infections",
+      "DiGeorge syndrome --[phenotype_present]--> Cleft palate",
+      "DiGeorge syndrome --[phenotype_present]--> Hypocalcemia"
+    ],
+    "source": "MedQA (USMLE) + PrimeKG",
+    "category": "cross-domain",
+    "difficulty": "hard"
+  },
+  {
+    "question": "A 57-year-old woman presents to her family physician because of sinusitis and nasal drainage for 3 months. The nasal drainage is purulent and occasionally hemorrhagic. She has only temporary improvement after trying multiple over the counter medications. Over the last 2 weeks, she also has fatigue and joint pain, mainly affecting the ankles, knees, and wrists. Vital signs include: temperature 36.9°C (98.4°F), blood pressure 142/91 mm Hg, and pulse 82/min. On examination, there is inflammation and bleeding of the nasal mucosa, along with tenderness to percussion over the maxillary sinuses. Urine dipstick reveals 4+ microscopic hematuria and 2+ proteinuria. Which of the following is the most likely diagnosis?\nOptions:\nA. Polyarteritis nodosa\nB. Churg-Strauss syndrome\nC. Granulomatosis with polyangiitis\nD. Immunoglobulin A nephropathy\nE. Sarcoidosis",
+    "answer": "The correct answer is C. Granulomatosis with polyangiitis.",
+    "contexts": [
+      "granulomatosis with polyangiitis --[phenotype_present]--> Sinusitis",
+      "granulomatosis with polyangiitis --[phenotype_present]--> Fatigue",
+      "granulomatosis with polyangiitis --[phenotype_present]--> Proteinuria"
+    ],
+    "source": "MedQA (USMLE) + PrimeKG",
+    "category": "cross-domain",
+    "difficulty": "hard"
+  },
+  {
+    "question": "A 50-year-old man is brought to the emergency department by his wife with acute onset confusion, disorientation, and agitation. The patient's wife reports that he has diabetic gastroparesis for which he takes domperidone in 3 divided doses every day. He also takes insulin glargine and insulin lispro for management of type 1 diabetes mellitus and telmisartan for control of hypertension. Today, she says the patient forgot to take his morning dose of domperidone to work and instead took 4 tablets of scopolamine provided to him by a coworker. Upon returning home after 4 hours, he complained of dizziness and became increasingly drowsy and confused. His temperature is 38.9°C (102.0°F), pulse rate is 112 /min, blood pressure is 140/96 mm Hg, and respiratory rate is 20/min. On physical examination, the skin is dry. Pupils are dilated. There are myoclonic jerks of the jaw present. Which of the following is the most likely cause of this patient’s symptoms?\nOptions:\nA. Scopolamine overdose\nB. Domperidone overdose\nC. Heatstroke\nD. Diabetic ketoacidosis\nE. Hypoglycemia",
+    "answer": "The correct answer is A. Scopolamine overdose.",
+    "contexts": [
+      "Scopolamine --[side_effect]--> Confusion",
+      "Scopolamine --[side_effect]--> Agitation"
+    ],
+    "source": "MedQA (USMLE) + PrimeKG",
+    "category": "cross-domain",
+    "difficulty": "hard"
+  },
+  {
+    "question": "A 59-year-old man is brought to the emergency department because of a 2-hour history of abdominal pain and severe vomiting after ingesting an unknown medication in a suicide attempt. On the way to the hospital, he had a generalized tonic-clonic seizure. He has chronic obstructive pulmonary disease, coronary artery disease, and chronic back pain. His pulse is 130/min, respirations are 16/min, and blood pressure is 110/60 mm Hg. Serum studies show a glucose concentration of 180 mg/dL and a potassium concentration of 2.8 mEq/L. An ECG shows ventricular tachycardia. This patient's current findings are most likely caused by an overdose of which of the following drugs?\nOptions:\nA. Albuterol\nB. Theophylline\nC. Metoprolol\nD. Amitriptyline\nE. Acetaminophen",
+    "answer": "The correct answer is B. Theophylline.",
+    "contexts": [
+      "Theophylline --[side_effect]--> Abdominal pain",
+      "Theophylline --[side_effect]--> Vomiting",
+      "Theophylline --[side_effect]--> Seizure"
+    ],
+    "source": "MedQA (USMLE) + PrimeKG",
+    "category": "cross-domain",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How is Helicobacter pylori infection related to gastric MALT lymphoma and gastric adenocarcinoma?",
+    "answer": "H. pylori colonization is the main risk factor for peptic ulcer disease, gastric adenocarcinoma, and gastric MALT lymphoma. Many low-grade gastric B-cell (MALT) lymphomas depend on H. pylori for continued growth and may regress after eradication, so treating H. pylori is first-line therapy for low-grade gastric MALT lymphoma. Eradication is of no benefit once gastric adenocarcinoma has developed.",
+    "contexts": [],
+    "source": "Harrison's Principles of Internal Medicine ed.20",
+    "category": "cross-domain",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How is diabetes mellitus related to chronic kidney disease, and why are ACE inhibitors or ARBs used in diabetic patients with CKD?",
+    "answer": "Diabetic nephropathy, mostly from type 2 diabetes, is the most frequent cause of chronic kidney disease in North America and Europe. Whatever the cause, once nephrons are lost the remaining ones hyperfilter and hypertrophy, partly through intrarenal renin-angiotensin activity, and this eventually leads to sclerosis and progressive loss of GFR. ACE inhibitors and ARBs appear to slow this decline beyond lowering blood pressure by correcting intraglomerular hyperfiltration and hypertension. In CKD patients with diabetes, blood pressure should be reduced below 130/80 mmHg, and these drugs can cause hyperkalemia.",
+    "contexts": [],
+    "source": "Harrison's Principles of Internal Medicine ed.20",
+    "category": "cross-domain",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How does group A streptococcal pharyngitis lead to mitral stenosis, and how can this be prevented?",
+    "answer": "Group A streptococcal pharyngitis can be followed by acute rheumatic fever, an immune-mediated complication, and rheumatic fever is the leading cause of mitral stenosis. In temperate climates, symptoms of mitral stenosis usually appear about two decades after rheumatic carditis. Preventing rheumatic fever requires eradicating the organism from the pharynx with 10 days of penicillin.",
+    "contexts": [
+      "streptococcal infection --[indication]--> Phenoxymethylpenicillin",
+      "pharyngitis --[indication]--> Phenoxymethylpenicillin"
+    ],
+    "source": "PrimeKG + Harrison's Principles of Internal Medicine ed.20",
+    "category": "cross-domain",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How is Epstein-Barr virus infection linked to Burkitt lymphoma and Hodgkin lymphoma?",
+    "answer": "EBV, the cause of infectious mononucleosis, is associated with several malignancies. About 90% of Burkitt lymphoma in Africa and about 15% in the United States are EBV-associated; in African patients, malaria may impair cellular immunity to EBV and expand EBV-infected B cells, increasing the likelihood of a c-myc translocation, the hallmark of Burkitt lymphoma. EBV is found in Reed-Sternberg cells in about half of U.S. Hodgkin lymphoma cases, especially the mixed-cellularity type, and the risk of EBV-positive Hodgkin lymphoma is increased in young adults for several years after EBV-seropositive infectious mononucleosis.",
+    "contexts": [
+      "Burkitt lymphoma --[associated_gene]--> MYC"
+    ],
+    "source": "PrimeKG + Harrison's Principles of Internal Medicine ed.20",
+    "category": "cross-domain",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How does poststreptococcal glomerulonephritis differ from acute rheumatic fever as a complication of group A streptococcal infection?",
+    "answer": "Both are immune-mediated, nonsuppurative complications of group A streptococcal infection. Poststreptococcal glomerulonephritis can follow skin infection (impetigo, after 2-6 weeks) or pharyngitis (after 1-3 weeks), whereas rheumatic fever follows only pharyngeal infection, and penicillin treatment of pharyngitis lowers the risk of rheumatic fever but not of glomerulonephritis. The glomerulonephritis presents as an acute nephritic syndrome with hematuria, red cell casts, edema, hypertension, and oliguric renal failure; in the first week, about 90% of patients have decreased C3 with normal C4.",
+    "contexts": [],
+    "source": "Harrison's Principles of Internal Medicine ed.20",
+    "category": "cross-domain",
+    "difficulty": "medium"
+  }
+]

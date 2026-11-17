@@ -1,0 +1,15 @@
+# Tested together (Python 3.11-3.13). Keep langchain below 1.0: ragas 0.4.3 fails to import with
+# langchain 1.x / langchain-community 0.4.x (missing langchain_community.chat_models.vertexai).
+ragas==0.4.3
+langchain==0.3.30
+langchain-core==0.3.86
+langchain-community==0.3.31
+langchain-openai==0.3.35
+langchain-huggingface==0.3.1
+openai>=2.0,<3
+sentence-transformers==6.1.0
+rapidfuzz>=3.0
+scipy>=1.11             # Wilcoxon, Pearson, Spearman
+pandas>=2.0
+numpy>=1.26
+openpyxl>=3.1           # rating sheet (buat_lembar_rq3.py)

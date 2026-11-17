@@ -1,0 +1,76 @@
+# PrimeKG edges/entities that are clinically wrong or misleading for the ground truth.
+# Read automatically by: python scripts/generate_qa_dataset.py generate
+#   center || target   -> drop one edge (names are case-insensitive)
+#   name               -> drop the whole entity from all categories
+# Add a short reason after each block so the choice can be defended in the thesis.
+
+# Disease–Drug: drugs for cystinuria wrongly linked to G6PD deficiency
+g6pd deficiency || penicillamine
+g6pd deficiency || tiopronin
+
+# Disease–Drug: local anaesthetic / antimuscarinic are not treatments of cauda equina syndrome
+cauda equina syndrome || butacaine
+cauda equina syndrome || oxybutynin
+
+# Disease–Drug: non-standard agents not recommended in Harrison's for Alzheimer disease
+alzheimer disease || acetylcarnitine
+alzheimer disease || epicriptine
+alzheimer disease || ipidacrine
+alzheimer disease || pramiracetam
+
+# Disease–Gene: genes listed are primary aldosteronism genes, not Waterhouse-Friderichsen
+waterhouse-friderichsen syndrome
+
+# Disease–Gene: genes are lab markers / unrelated (ALB, HBB, TF; ERF, FUZ)
+echinococcosis || alb
+echinococcosis || hbb
+echinococcosis || tf
+congenital heart disease || erf
+congenital heart disease || fuz
+
+# Disease–Phenotype: annotated features are dysmorphic traits of a syndrome, not of TOF itself
+tetralogy of fallot
+
+# Signs/findings stored as disease nodes: their "features" are synonyms, not clinical features
+hyperreflexia
+ptosis
+
+# Cross-Domain: lithium is not a treatment of arthropathy (historical gout use)
+arthropathy || lithium carbonate
+
+# Cross-Domain: intoxication node only links to unrelated diseases via generic findings
+cocaine intoxication
+
+# Entity Definition only ('def: name'): PrimeKG description is not the clinical definition
+def: anxiety
+def: hypertension
+
+# Disease–Phenotype: these are Lynch-syndrome tumour annotations, not features of colorectal cancer
+colorectal cancer || neoplasm of the stomach
+colorectal cancer || transitional cell carcinoma of the bladder
+colorectal cancer || uterine leiomyosarcoma
+
+# Cross-Domain: a topical anaesthetic shared by unrelated skin/ear conditions is not a meaningful link
+otitis externa || pramocaine
+tinea pedis || pramocaine
+
+# --- Pre-validasi dataset (21 Okt 2026); dataset sudah dikoreksi manual, lihat dataset_prevalidation_log.csv ---
+# Disease–Phenotype: anotasi ini lebih cocok dengan sindrom hiper-IgE, bukan pemfigus vulgaris
+# (penyakit dewasa; lesinya sembuh tanpa jaringan parut)
+pemphigus vulgaris || atypical scarring of skin
+pemphigus vulgaris || feeding difficulties in infancy
+pemphigus vulgaris || recurrent cutaneous abscess formation
+pemphigus vulgaris || recurrent infections
+
+# Disease–Phenotype: node umum "esophagitis" membawa fitur esofagitis eosinofilik
+# (item dipindah ke node "eosinophilic esophagitis")
+esophagitis (disease) || eosinophilic infiltration of the esophagus
+esophagitis (disease) || eosinophilic microabscess formation in the esophagus
+
+# Disease–Drug: node umum "dementia" hanya terhubung ke agen non-standar (item diganti "Alzheimer disease")
+dementia (disease) || dihydroergocornine
+dementia (disease) || ergoloid mesylate
+dementia (disease) || vinpocetine
+
+# Entity Definition: deskripsi node "hepatitis" di PrimeKG adalah definisi hepatitis kronis (> 6 bulan)
+def: hepatitis

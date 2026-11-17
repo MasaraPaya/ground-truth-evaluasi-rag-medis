@@ -1,0 +1,26 @@
+﻿id,status,perubahan,halaman_cetak_ed20
+DDR-019,Sesuai,-,926
+DDR-020,Diperbaiki (presisi),"Syarat INR dilengkapi: dua nilai INR berjarak minimal 1 hari dalam rentang 2,0-3,0 (Tabel 273-3)",1914
+DDR-021,Diperbaiki,Contoh regimen diganti: terapi kuadrupel bismut adalah lini pertama di sebagian besar negara; triple clarithromycin hanya bila resistensi clarithromycin <20% (Tabel 158-2),1166
+DDR-022,Sesuai,-,1285
+DDR-023,Diperbaiki (kesalahan),"Klaim 'amoxicillin dipakai pada kehamilan' dihapus karena tidak ada di teks; diganti urutan alternatif (amoxicillin, cefuroxime axetil, erythromycin) dan amoxicillin untuk anak <9 tahun",1302-1303
+DDR-024,Diperbaiki,'Resistensi terutama akibat mutasi' diganti 'mekanisme resistensi yang paling relevan secara klinis'; mekanisme ATP-binding dirumuskan sesuai teks ('most BCR-ABL1 TKIs'),748-750
+DDR-025,Diperbaiki (redaksi),'blocks' menjadi 'interferes with' metabolisme folat; PaO2 menjadi PO2 sesuai teks,1549-1550
+DPH-015,Sesuai,-,999-1000
+DPH-016,Diperbaiki (rujukan),"Angka >3 g/24 jam berasal dari hlm. 2135, rujukan ditambah; 'venous thrombosis' menjadi 'venous complications' sesuai teks","2135, 2142"
+DPH-017,Diperbaiki (redaksi),Hiperurisemia dirumuskan 'can cause ... with secondary gout' sesuai teks,734
+DPH-018,Diperbaiki,Ditambahkan syarat 'without ventilatory support' untuk gagal napas sebagai penyebab kematian tersering,1103-1104
+DPH-019,Sesuai,-,1188
+DPH-020,Diperbaiki (presisi),Fibrilasi atrium 'persisten' yang mempercepat progresi; trombus dari atrium kiri yang melebar,1814-1815
+DSE-012,Diperbaiki,Pertanyaan tidak lagi mengklaim 'rather than bleeding' (tidak ada di teks); antibodi 'usually IgG' terhadap neoantigen PF4; warfarin ditunda sampai trombosit kembali ke baseline,849-850
+DSE-013,Diperbaiki (rujukan),"Kalimat pemantauan fungsi hati berasal dari hlm. 1274, rujukan ditambah",1273-1274
+DSE-014,Diperbaiki,"Faktor risiko nefrotoksisitas dirumuskan hati-hati sesuai teks ('not well defined', 'may be related'); atribusi Tabel 139-3 (vestibular dan koklear) sudah diverifikasi",1048
+DSE-015,Sesuai,-,1516
+DGN-013,Sesuai,-,1986-1989
+DGN-014,Diperbaiki (redaksi),Mekanisme 'second hit' dirumuskan 'are thought to' sesuai teks,2150-2151
+DGN-015,Sesuai,Catatan: simbol gen HBB ditambahkan peneliti; teks menyebut 'beta-globin gene',692
+XDM-011,Sesuai,-,"1162, 1164"
+XDM-012,Diperbaiki,Pertanyaan diubah ('related to'); hiperfiltrasi dinyatakan berlaku untuk semua etiologi CKD; efek ACEi/ARB 'appear to'; target TD <130/80 khusus CKD dengan diabetes,"2111, 2113, 2117"
+XDM-013,Diperbaiki (presisi),Jeda ~2 dekade berlaku 'in temperate climates'; rujukan ditambah hlm. 1084,"1083-1084, 1814"
+XDM-014,Diperbaiki (redaksi),Malaria 'may impair'; translokasi c-myc sebagai 'hallmark' Burkitt sesuai teks,"1358, 1360"
+XDM-015,Diperbaiki (presisi),C3 rendah dengan C4 normal pada ~90% pasien di minggu pertama; 'oliguric renal failure' sesuai teks,"1084-1085, 2137"

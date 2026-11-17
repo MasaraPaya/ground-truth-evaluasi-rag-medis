@@ -1,0 +1,213 @@
+{
+  "system": "graphrag",
+  "run_at": "2026-11-04T08:01:32",
+  "dummy_mode": false,
+  "judge_llm": "openai:gpt-4o-mini",
+  "embeddings": "sentence-transformers/all-MiniLM-L6-v2",
+  "judge_prompts": "adapted for KG triples (see PRECISION_INSTRUCTION / RECALL_INSTRUCTION)",
+  "n_questions": 100,
+  "overall": {
+    "n": 100,
+    "context_precision": 0.7723,
+    "context_recall": 0.6615,
+    "faithfulness": 0.8103,
+    "answer_relevancy": 0.6762,
+    "kg_context_recall": 0.8625,
+    "context_precision_n_scored": 100,
+    "context_recall_n_scored": 100,
+    "faithfulness_n_scored": 98,
+    "answer_relevancy_n_scored": 100,
+    "kg_context_recall_n_scored": 92
+  },
+  "by_category": {
+    "disease-drug": {
+      "n": 25,
+      "context_precision": 0.7542,
+      "context_recall": 0.62,
+      "faithfulness": 0.7209,
+      "answer_relevancy": 0.623,
+      "kg_context_recall": 0.942,
+      "context_precision_n_scored": 25,
+      "context_recall_n_scored": 25,
+      "faithfulness_n_scored": 25,
+      "answer_relevancy_n_scored": 25,
+      "kg_context_recall_n_scored": 23
+    },
+    "disease-phenotype": {
+      "n": 20,
+      "context_precision": 0.8019,
+      "context_recall": 0.5563,
+      "faithfulness": 0.7468,
+      "answer_relevancy": 0.6003,
+      "kg_context_recall": 0.8529,
+      "context_precision_n_scored": 20,
+      "context_recall_n_scored": 20,
+      "faithfulness_n_scored": 20,
+      "answer_relevancy_n_scored": 20,
+      "kg_context_recall_n_scored": 17
+    },
+    "drug-side-effect": {
+      "n": 15,
+      "context_precision": 0.7642,
+      "context_recall": 0.6861,
+      "faithfulness": 0.8622,
+      "answer_relevancy": 0.6299,
+      "kg_context_recall": 0.8167,
+      "context_precision_n_scored": 15,
+      "context_recall_n_scored": 15,
+      "faithfulness_n_scored": 14,
+      "answer_relevancy_n_scored": 15,
+      "kg_context_recall_n_scored": 15
+    },
+    "disease-gene": {
+      "n": 15,
+      "context_precision": 0.8667,
+      "context_recall": 0.8222,
+      "faithfulness": 0.9429,
+      "answer_relevancy": 0.913,
+      "kg_context_recall": 0.8222,
+      "context_precision_n_scored": 15,
+      "context_recall_n_scored": 15,
+      "faithfulness_n_scored": 14,
+      "answer_relevancy_n_scored": 15,
+      "kg_context_recall_n_scored": 15
+    },
+    "entity-definition": {
+      "n": 10,
+      "context_precision": 0.8665,
+      "context_recall": 1.0,
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.9199,
+      "kg_context_recall": 1.0,
+      "context_precision_n_scored": 10,
+      "context_recall_n_scored": 10,
+      "faithfulness_n_scored": 10,
+      "answer_relevancy_n_scored": 10,
+      "kg_context_recall_n_scored": 10
+    },
+    "cross-domain": {
+      "n": 15,
+      "context_precision": 0.6143,
+      "context_recall": 0.4597,
+      "faithfulness": 0.7456,
+      "answer_relevancy": 0.5128,
+      "kg_context_recall": 0.717,
+      "context_precision_n_scored": 15,
+      "context_recall_n_scored": 15,
+      "faithfulness_n_scored": 15,
+      "answer_relevancy_n_scored": 15,
+      "kg_context_recall_n_scored": 12
+    }
+  },
+  "by_source_group": {
+    "PrimeKG": {
+      "n": 55,
+      "context_precision": 0.951,
+      "context_recall": 0.983,
+      "faithfulness": 0.9909,
+      "answer_relevancy": 0.9767,
+      "kg_context_recall": 0.9807,
+      "context_precision_n_scored": 55,
+      "context_recall_n_scored": 55,
+      "faithfulness_n_scored": 55,
+      "answer_relevancy_n_scored": 55,
+      "kg_context_recall_n_scored": 55
+    },
+    "MedQA + PrimeKG": {
+      "n": 20,
+      "context_precision": 0.7502,
+      "context_recall": 0.4917,
+      "faithfulness": 0.3992,
+      "answer_relevancy": 0.5345,
+      "kg_context_recall": 0.9833,
+      "context_precision_n_scored": 20,
+      "context_recall_n_scored": 20,
+      "faithfulness_n_scored": 20,
+      "answer_relevancy_n_scored": 20,
+      "kg_context_recall_n_scored": 20
+    },
+    "Harrison + PrimeKG": {
+      "n": 17,
+      "context_precision": 0.4613,
+      "context_recall": 0.1324,
+      "faithfulness": 0.6774,
+      "answer_relevancy": 0.1477,
+      "kg_context_recall": 0.3382,
+      "context_precision_n_scored": 17,
+      "context_recall_n_scored": 17,
+      "faithfulness_n_scored": 15,
+      "answer_relevancy_n_scored": 17,
+      "kg_context_recall_n_scored": 17
+    },
+    "Harrison only (no KG context)": {
+      "n": 8,
+      "context_precision": 0.2609,
+      "context_recall": 0.0,
+      "faithfulness": 0.8461,
+      "answer_relevancy": 0.0867,
+      "kg_context_recall": null,
+      "context_precision_n_scored": 8,
+      "context_recall_n_scored": 8,
+      "faithfulness_n_scored": 8,
+      "answer_relevancy_n_scored": 8,
+      "kg_context_recall_n_scored": 0
+    }
+  },
+  "by_difficulty": {
+    "easy": {
+      "n": 50,
+      "context_precision": 0.946,
+      "context_recall": 1.0,
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.9754,
+      "kg_context_recall": 1.0,
+      "context_precision_n_scored": 50,
+      "context_recall_n_scored": 50,
+      "faithfulness_n_scored": 50,
+      "answer_relevancy_n_scored": 50,
+      "kg_context_recall_n_scored": 50
+    },
+    "hard": {
+      "n": 20,
+      "context_precision": 0.7502,
+      "context_recall": 0.4917,
+      "faithfulness": 0.3992,
+      "answer_relevancy": 0.5345,
+      "kg_context_recall": 0.9833,
+      "context_precision_n_scored": 20,
+      "context_recall_n_scored": 20,
+      "faithfulness_n_scored": 20,
+      "answer_relevancy_n_scored": 20,
+      "kg_context_recall_n_scored": 20
+    },
+    "medium": {
+      "n": 30,
+      "context_precision": 0.4976,
+      "context_recall": 0.2104,
+      "faithfulness": 0.7653,
+      "answer_relevancy": 0.2719,
+      "kg_context_recall": 0.4403,
+      "context_precision_n_scored": 30,
+      "context_recall_n_scored": 30,
+      "faithfulness_n_scored": 28,
+      "answer_relevancy_n_scored": 30,
+      "kg_context_recall_n_scored": 22
+    }
+  },
+  "research_metrics": {
+    "RM1_retrieval": {
+      "context_precision": 0.7723,
+      "context_recall": 0.6615
+    },
+    "RM2_answer": {
+      "faithfulness": 0.8103
+    },
+    "RM2_note": "expert factuality is scored manually (manual_scores.csv) and is not part of this file"
+  },
+  "RQ1_threshold": 0.7,
+  "RQ1_meets_threshold": {
+    "context_precision": true,
+    "context_recall": false,
+    "faithfulness": true
+  }
+}
