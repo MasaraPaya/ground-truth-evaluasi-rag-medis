@@ -1,0 +1,40 @@
+# secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# large or third-party data (see README)
+data/kg_subset.csv
+data/kg.csv
+data/disease_features.*
+data/drug_features.*
+data/medqa_train.jsonl
+data/medqa_diseases.txt
+data/medqa_drugs.txt
+data/medqa_candidates.csv
+data/ground_truth_work.json
+data/baseline_index/
+data/harrison*/
+data/harrison_page_heads.tsv
+data/harrison_pages.csv
+*.pdf
+
+# intermediate outputs of a new run
+results/*_outputs.csv
+results/*_judge_trace.jsonl
+results/dummy*
+results/*_nollm*
+
+# rating sheet and raw form responses
+data/manual/*.xlsx
+data/**/respons_mentah*
+
+# working files of the original project folder
+PANDUAN_EVALUASI.md
+scripts/split_harrison.py
+data/ground_truth_dataset_sebelum_revisi.json
+data/ground_truth_dataset_v*.json
